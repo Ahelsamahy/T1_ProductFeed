@@ -1,7 +1,6 @@
 <p style="font-size:15px" align="center">
   <a href="#objective">Objective </a> •
   <a href="#Steps">Steps </a> •
-  <a href="#How-to-run">How to run</a>
 </p>
 
 
@@ -48,7 +47,7 @@ The exported file doesn't contain `{additional_image_link, availability, conditi
 
 2. Add the base domain to product image `(image_link)` and `(additional_image_link)`, also (HUF) at the end of price
 
-3. Make only one ID to have `Image_link` and append `Image_link` from other ones (that have same ID) to the first one as `additional_image_link`
+3. Make only one ID to have `Image_link` and append `Image_link` from other ones (that have same ID) to the first one as `additional_image_link` (line 43 to 45)
 > Additional images must be loaded in their respective sort orders
 
 <center>
