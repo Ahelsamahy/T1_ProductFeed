@@ -3,7 +3,7 @@ import xml.etree.ElementTree as ET
 mytree = ET.parse('Input.xml')
 myroot = mytree.getroot()
 dataRecord = myroot.findall("DATA_RECORD")
-recordLen = len(myroot.findall('DATA_RECORD'))
+recordLen = len(dataRecord)
 counterPos = 0
 counterNeg = 0
 
@@ -26,11 +26,15 @@ addElement("condition", "brand", "new")
 
 
 for index in range(0, recordLen):
+    myroot[index][3].text = str(
+        "https://butopea.com/p/" + myroot[index][3].text)
     myroot[index][4].text = str(
-        "https://butopea.com/p/" + myroot[index][4].text)
+        "https://butopea.com/" + myroot[index][4].text)
     if len(myroot[index][5].text) > 2:
         myroot[index][5].text = str(
-            "https://butopea.com/p/" + myroot[index][5].text)
+            "https://butopea.com/" + myroot[index][5].text)
+    myroot[index][7].text = str(
+        myroot[index][7].text + " HUF")
 
 
 # move the image link to the additional_image_link element if id are the same with the ones after it.
