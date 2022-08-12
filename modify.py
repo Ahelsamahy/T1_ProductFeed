@@ -1,6 +1,6 @@
 import xml.etree.ElementTree as ET
 
-mytree = ET.parse('feed.xml')
+mytree = ET.parse('Input.xml')
 myroot = mytree.getroot()
 dataRecord = myroot.findall("DATA_RECORD")
 recordLen = len(myroot.findall('DATA_RECORD'))
@@ -77,3 +77,4 @@ for index in range(0, recordLen):
 # counter = 0
 
 mytree.write('output.xml')
+mytree.write('feed.xml')
