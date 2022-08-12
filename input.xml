@@ -1,0 +1,1321 @@
+<Products>
+  <DATA_RECORD>
+    <id>196</id>
+    <title>Összehajtható, ülőkés tároló puff - PARIS</title>
+    <description>&amp;lt;p&amp;gt;R&amp;amp;eacute;gi levelek mint&amp;amp;aacute;iba burkol&amp;amp;oacute;zva, modern st&amp;amp;iacute;lust &amp;amp;eacute;s fant&amp;amp;aacute;zi&amp;amp;aacute;t visz otthon&amp;amp;aacute;ban ez a lelem&amp;amp;eacute;nyes puff. Haszn&amp;amp;aacute;lhatja &amp;amp;uuml;lőkek&amp;amp;eacute;nt vagy t&amp;amp;aacute;rol&amp;amp;oacute;k&amp;amp;eacute;nt, elsz&amp;amp;oacute;rva tartott dolgai sz&amp;amp;aacute;m&amp;amp;aacute;ra. K&amp;amp;eacute;ptelen lesz n&amp;amp;eacute;lk&amp;amp;uuml;le &amp;amp;eacute;lni!&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Ezt a term&amp;amp;eacute;ket Viszkok Fruzsi is tesztelte. N&amp;amp;eacute;zd meg neki hogy tetszett!&amp;lt;/p&amp;gt;
+
+&amp;lt;p style=&amp;quot;text-align: center;&amp;quot;&amp;gt;&amp;lt;iframe allowfullscreen=&amp;quot;&amp;quot; frameborder=&amp;quot;0&amp;quot; height=&amp;quot;180&amp;quot; id=&amp;quot;ytplayer&amp;quot; src=&amp;quot;https://www.youtube.com/embed/QWkM2ft_tBs?rel=0&amp;amp;amp;enablejsapi=1&amp;amp;amp;origin=https://butoraim.hu&amp;amp;amp;showinfo=0&amp;amp;amp;start=440&amp;quot; width=&amp;quot;320&amp;quot;&amp;gt;&amp;lt;/iframe&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;script&amp;gt;
+      var tag = document.createElement('script');
+      tag.src = &amp;quot;https://www.youtube.com/iframe_api&amp;quot;;
+      var firstScriptTag = document.getElementsByTagName('script')[0];
+      firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+
+      var player;
+      function onYouTubeIframeAPIReady(event) {
+      player = new YT.Player('ytplayer', {
+      events: {
+      'onReady': onPlayerReady,
+      'onStateChange': onPlayerStateChange
+      }
+      });
+      }
+  var pauseFlag = false;
+function onPlayerReady(event) {
+// do nothing, no tracking needed
+}
+function onPlayerStateChange(event) {
+// track when user clicks to Play
+if (event.data == YT.PlayerState.PLAYING) {
+  ga('send', 'event', 'Product Page', 'YT-Video-Play', 'Product ID 196');
+pauseFlag = true;
+}
+// track when user clicks to Pause
+if (event.data == YT.PlayerState.PAUSED &amp;amp;&amp;amp; pauseFlag) {
+  ga('send', 'event', 'Product Page', 'YT-Video-Pause', 'Product ID 196');
+pauseFlag = false;
+}
+// track when video ends
+if (event.data == YT.PlayerState.ENDED) {
+  ga('send', 'event', 'Product Page', 'YT-Video-Finished', 'Product ID 196');
+}
+}
+&amp;lt;/script&amp;gt;</description>
+    <link>196</link>
+    <image_link>image/catalog/Product_pictures/Puffok/osszehajthato-ulokes-tarolo-puff-paris-deho15358-paris-h38-00-cm-w37-50-cm-37-50-cm-1.jpg</image_link>
+    <price>123648.0253</price>
+    <brand>PARIS</brand>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>196</id>
+    <title>Összehajtható, ülőkés tároló puff - PARIS</title>
+    <description>&amp;lt;p&amp;gt;R&amp;amp;eacute;gi levelek mint&amp;amp;aacute;iba burkol&amp;amp;oacute;zva, modern st&amp;amp;iacute;lust &amp;amp;eacute;s fant&amp;amp;aacute;zi&amp;amp;aacute;t visz otthon&amp;amp;aacute;ban ez a lelem&amp;amp;eacute;nyes puff. Haszn&amp;amp;aacute;lhatja &amp;amp;uuml;lőkek&amp;amp;eacute;nt vagy t&amp;amp;aacute;rol&amp;amp;oacute;k&amp;amp;eacute;nt, elsz&amp;amp;oacute;rva tartott dolgai sz&amp;amp;aacute;m&amp;amp;aacute;ra. K&amp;amp;eacute;ptelen lesz n&amp;amp;eacute;lk&amp;amp;uuml;le &amp;amp;eacute;lni!&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Ezt a term&amp;amp;eacute;ket Viszkok Fruzsi is tesztelte. N&amp;amp;eacute;zd meg neki hogy tetszett!&amp;lt;/p&amp;gt;
+
+&amp;lt;p style=&amp;quot;text-align: center;&amp;quot;&amp;gt;&amp;lt;iframe allowfullscreen=&amp;quot;&amp;quot; frameborder=&amp;quot;0&amp;quot; height=&amp;quot;180&amp;quot; id=&amp;quot;ytplayer&amp;quot; src=&amp;quot;https://www.youtube.com/embed/QWkM2ft_tBs?rel=0&amp;amp;amp;enablejsapi=1&amp;amp;amp;origin=https://butoraim.hu&amp;amp;amp;showinfo=0&amp;amp;amp;start=440&amp;quot; width=&amp;quot;320&amp;quot;&amp;gt;&amp;lt;/iframe&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;script&amp;gt;
+      var tag = document.createElement('script');
+      tag.src = &amp;quot;https://www.youtube.com/iframe_api&amp;quot;;
+      var firstScriptTag = document.getElementsByTagName('script')[0];
+      firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+
+      var player;
+      function onYouTubeIframeAPIReady(event) {
+      player = new YT.Player('ytplayer', {
+      events: {
+      'onReady': onPlayerReady,
+      'onStateChange': onPlayerStateChange
+      }
+      });
+      }
+  var pauseFlag = false;
+function onPlayerReady(event) {
+// do nothing, no tracking needed
+}
+function onPlayerStateChange(event) {
+// track when user clicks to Play
+if (event.data == YT.PlayerState.PLAYING) {
+  ga('send', 'event', 'Product Page', 'YT-Video-Play', 'Product ID 196');
+pauseFlag = true;
+}
+// track when user clicks to Pause
+if (event.data == YT.PlayerState.PAUSED &amp;amp;&amp;amp; pauseFlag) {
+  ga('send', 'event', 'Product Page', 'YT-Video-Pause', 'Product ID 196');
+pauseFlag = false;
+}
+// track when video ends
+if (event.data == YT.PlayerState.ENDED) {
+  ga('send', 'event', 'Product Page', 'YT-Video-Finished', 'Product ID 196');
+}
+}
+&amp;lt;/script&amp;gt;</description>
+    <link>196</link>
+    <image_link>image/catalog/Product_pictures/Puffok/osszehajthato-ulokes-tarolo-puff-paris-deho15358-paris-h38-00-cm-w37-50-cm-37-50-cm-2.jpg</image_link>
+    <price>123648.0253</price>
+    <brand>PARIS</brand>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>196</id>
+    <title>Összehajtható, ülőkés tároló puff - PARIS</title>
+    <description>&amp;lt;p&amp;gt;R&amp;amp;eacute;gi levelek mint&amp;amp;aacute;iba burkol&amp;amp;oacute;zva, modern st&amp;amp;iacute;lust &amp;amp;eacute;s fant&amp;amp;aacute;zi&amp;amp;aacute;t visz otthon&amp;amp;aacute;ban ez a lelem&amp;amp;eacute;nyes puff. Haszn&amp;amp;aacute;lhatja &amp;amp;uuml;lőkek&amp;amp;eacute;nt vagy t&amp;amp;aacute;rol&amp;amp;oacute;k&amp;amp;eacute;nt, elsz&amp;amp;oacute;rva tartott dolgai sz&amp;amp;aacute;m&amp;amp;aacute;ra. K&amp;amp;eacute;ptelen lesz n&amp;amp;eacute;lk&amp;amp;uuml;le &amp;amp;eacute;lni!&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Ezt a term&amp;amp;eacute;ket Viszkok Fruzsi is tesztelte. N&amp;amp;eacute;zd meg neki hogy tetszett!&amp;lt;/p&amp;gt;
+
+&amp;lt;p style=&amp;quot;text-align: center;&amp;quot;&amp;gt;&amp;lt;iframe allowfullscreen=&amp;quot;&amp;quot; frameborder=&amp;quot;0&amp;quot; height=&amp;quot;180&amp;quot; id=&amp;quot;ytplayer&amp;quot; src=&amp;quot;https://www.youtube.com/embed/QWkM2ft_tBs?rel=0&amp;amp;amp;enablejsapi=1&amp;amp;amp;origin=https://butoraim.hu&amp;amp;amp;showinfo=0&amp;amp;amp;start=440&amp;quot; width=&amp;quot;320&amp;quot;&amp;gt;&amp;lt;/iframe&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;script&amp;gt;
+      var tag = document.createElement('script');
+      tag.src = &amp;quot;https://www.youtube.com/iframe_api&amp;quot;;
+      var firstScriptTag = document.getElementsByTagName('script')[0];
+      firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+
+      var player;
+      function onYouTubeIframeAPIReady(event) {
+      player = new YT.Player('ytplayer', {
+      events: {
+      'onReady': onPlayerReady,
+      'onStateChange': onPlayerStateChange
+      }
+      });
+      }
+  var pauseFlag = false;
+function onPlayerReady(event) {
+// do nothing, no tracking needed
+}
+function onPlayerStateChange(event) {
+// track when user clicks to Play
+if (event.data == YT.PlayerState.PLAYING) {
+  ga('send', 'event', 'Product Page', 'YT-Video-Play', 'Product ID 196');
+pauseFlag = true;
+}
+// track when user clicks to Pause
+if (event.data == YT.PlayerState.PAUSED &amp;amp;&amp;amp; pauseFlag) {
+  ga('send', 'event', 'Product Page', 'YT-Video-Pause', 'Product ID 196');
+pauseFlag = false;
+}
+// track when video ends
+if (event.data == YT.PlayerState.ENDED) {
+  ga('send', 'event', 'Product Page', 'YT-Video-Finished', 'Product ID 196');
+}
+}
+&amp;lt;/script&amp;gt;</description>
+    <link>196</link>
+    <image_link>image/catalog/Product_pictures/Puffok/osszehajthato-ulokes-tarolo-puff-paris-deho15358-paris-h38-00-cm-w37-50-cm-37-50-cm-3.jpg</image_link>
+    <price>123648.0253</price>
+    <brand>PARIS</brand>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>663</id>
+    <title>Ékszerdoboz, havas táj mintával - FROZEN</title>
+    <description>&amp;lt;p&amp;gt;Az &amp;amp;eacute;jszaka &amp;amp;eacute;s a h&amp;amp;oacute; lesz&amp;amp;aacute;llt. M&amp;amp;aacute;r v&amp;amp;aacute;rtunk egy ideje r&amp;amp;aacute;. Mikor kit&amp;amp;aacute;rjuk az ablakokat, boldogs&amp;amp;aacute;ggal telve fedezz&amp;amp;uuml;k fel az &amp;amp;uacute;jonnan h&amp;amp;oacute;feh&amp;amp;eacute;rbe &amp;amp;ouml;lt&amp;amp;ouml;z&amp;amp;ouml;tt t&amp;amp;aacute;jat. A hold f&amp;amp;eacute;nye j&amp;amp;aacute;tszik a friss lehull&amp;amp;oacute; pelyheken, &amp;amp;eacute;s a reszkető f&amp;amp;aacute;k v&amp;amp;aacute;rnak a csintalan sz&amp;amp;eacute;lre, hogy leh&amp;amp;uacute;zza r&amp;amp;oacute;luk a fagyos k&amp;amp;ouml;nt&amp;amp;ouml;st. A meleg kunyh&amp;amp;oacute;ban &amp;amp;uuml;lve nyitom fel a gy&amp;amp;ouml;ny&amp;amp;ouml;rű lakkozott dobozom, hogy a halk, szellőktől hull&amp;amp;aacute;mz&amp;amp;oacute; tejsz&amp;amp;iacute;nű t&amp;amp;aacute;j, mesesz&amp;amp;eacute;p eml&amp;amp;eacute;keit z&amp;amp;aacute;rjam el benne.&amp;lt;/p&amp;gt;
+</description>
+    <link>663</link>
+    <image_link>image/catalog/Product_pictures/Deli-dobozok/ekszerdoboz-havas-taj-mintaval-frozen-deli-260tel-ki-h8-00-cm-w15-50-cm-19-00-cm-1.jpg</image_link>
+    <price>33079.8191</price>
+    <brand>FROZEN</brand>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>663</id>
+    <title>Ékszerdoboz, havas táj mintával - FROZEN</title>
+    <description>&amp;lt;p&amp;gt;Az &amp;amp;eacute;jszaka &amp;amp;eacute;s a h&amp;amp;oacute; lesz&amp;amp;aacute;llt. M&amp;amp;aacute;r v&amp;amp;aacute;rtunk egy ideje r&amp;amp;aacute;. Mikor kit&amp;amp;aacute;rjuk az ablakokat, boldogs&amp;amp;aacute;ggal telve fedezz&amp;amp;uuml;k fel az &amp;amp;uacute;jonnan h&amp;amp;oacute;feh&amp;amp;eacute;rbe &amp;amp;ouml;lt&amp;amp;ouml;z&amp;amp;ouml;tt t&amp;amp;aacute;jat. A hold f&amp;amp;eacute;nye j&amp;amp;aacute;tszik a friss lehull&amp;amp;oacute; pelyheken, &amp;amp;eacute;s a reszkető f&amp;amp;aacute;k v&amp;amp;aacute;rnak a csintalan sz&amp;amp;eacute;lre, hogy leh&amp;amp;uacute;zza r&amp;amp;oacute;luk a fagyos k&amp;amp;ouml;nt&amp;amp;ouml;st. A meleg kunyh&amp;amp;oacute;ban &amp;amp;uuml;lve nyitom fel a gy&amp;amp;ouml;ny&amp;amp;ouml;rű lakkozott dobozom, hogy a halk, szellőktől hull&amp;amp;aacute;mz&amp;amp;oacute; tejsz&amp;amp;iacute;nű t&amp;amp;aacute;j, mesesz&amp;amp;eacute;p eml&amp;amp;eacute;keit z&amp;amp;aacute;rjam el benne.&amp;lt;/p&amp;gt;
+</description>
+    <link>663</link>
+    <image_link>image/catalog/Product_pictures/Deli-dobozok/ekszerdoboz-havas-taj-mintaval-frozen-deli-260tel-ki-h8-00-cm-w15-50-cm-19-00-cm-2.jpg</image_link>
+    <price>33079.8191</price>
+    <brand>FROZEN</brand>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>671</id>
+    <title>Ékszerdoboz, pipacsos mintával - COQUELICOT</title>
+    <description>Egy stílusos pipacs mező, pasztell színekkel illeni fog bármilyen modern beltérhez. A zen és a belső mérlegelést inspirálja nyugodt hangulatával. Bármit megtesz, hogy ellazítsa Önt. Tóp színével ez a ékszeresdoboz igazán sikkesen fog mutatni belterében.</description>
+    <link>671</link>
+    <image_link>image/catalog/Product_pictures/Deli-dobozok/ekszerdoboz-pipacsos-mintaval-coquelicot-deli-59pip-k-h8-20-cm-w13-00-cm-13-00-cm-1.jpg</image_link>
+    <price>22418.7768</price>
+    <brand>COQUELICOT</brand>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>671</id>
+    <title>Ékszerdoboz, pipacsos mintával - COQUELICOT</title>
+    <description>Egy stílusos pipacs mező, pasztell színekkel illeni fog bármilyen modern beltérhez. A zen és a belső mérlegelést inspirálja nyugodt hangulatával. Bármit megtesz, hogy ellazítsa Önt. Tóp színével ez a ékszeresdoboz igazán sikkesen fog mutatni belterében.</description>
+    <link>671</link>
+    <image_link>image/catalog/Product_pictures/Deli-dobozok/ekszerdoboz-pipacsos-mintaval-coquelicot-deli-59pip-k-h8-20-cm-w13-00-cm-13-00-cm-2.jpg</image_link>
+    <price>22418.7768</price>
+    <brand>COQUELICOT</brand>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>671</id>
+    <title>Ékszerdoboz, pipacsos mintával - COQUELICOT</title>
+    <description>Egy stílusos pipacs mező, pasztell színekkel illeni fog bármilyen modern beltérhez. A zen és a belső mérlegelést inspirálja nyugodt hangulatával. Bármit megtesz, hogy ellazítsa Önt. Tóp színével ez a ékszeresdoboz igazán sikkesen fog mutatni belterében.</description>
+    <link>671</link>
+    <image_link>image/catalog/Product_pictures/Deli-dobozok/ekszerdoboz-pipacsos-mintaval-coquelicot-deli-59pip-k-h8-20-cm-w13-00-cm-13-00-cm-3.jpg</image_link>
+    <price>22418.7768</price>
+    <brand>COQUELICOT</brand>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>1940</id>
+    <title>Fali kulcstartó polccal, virág mintával - SWISS COTTAGE</title>
+    <description>Folyton csak ledobod az apróságokat a zsebedből az előszobában a komódra? Ettől mindig olyan mintha rendetlenség lenne? Egy kis polc könnyen megoldja ezt a roblémát. Egyszerűen csak felakasztod a falra és mikor hazaérsz csak tedd erre az apró holmikat a zsebedből. És még a kulcsaidnak is fix helye lesz rajta, így a reggeli kulcskeresgélés is megoldódott.</description>
+    <link>1940</link>
+    <image_link>image/catalog/Product_pictures/Fa-deko/fali-kulcstarto-polccal-virag-mintaval-swiss-cottage-deht71034-polcv-h28-00-cm-w9-00-cm-40-00-cm-1.jpg</image_link>
+    <price>213138.6140</price>
+    <brand>SWISS COTTAGE</brand>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>1940</id>
+    <title>Fali kulcstartó polccal, virág mintával - SWISS COTTAGE</title>
+    <description>Folyton csak ledobod az apróságokat a zsebedből az előszobában a komódra? Ettől mindig olyan mintha rendetlenség lenne? Egy kis polc könnyen megoldja ezt a roblémát. Egyszerűen csak felakasztod a falra és mikor hazaérsz csak tedd erre az apró holmikat a zsebedből. És még a kulcsaidnak is fix helye lesz rajta, így a reggeli kulcskeresgélés is megoldódott.</description>
+    <link>1940</link>
+    <image_link>image/catalog/Product_pictures/Fa-deko/fali-kulcstarto-polccal-virag-mintaval-swiss-cottage-deht71034-polcv-h28-00-cm-w9-00-cm-40-00-cm-2.jpg</image_link>
+    <price>213138.6140</price>
+    <brand>SWISS COTTAGE</brand>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>1940</id>
+    <title>Fali kulcstartó polccal, virág mintával - SWISS COTTAGE</title>
+    <description>Folyton csak ledobod az apróságokat a zsebedből az előszobában a komódra? Ettől mindig olyan mintha rendetlenség lenne? Egy kis polc könnyen megoldja ezt a roblémát. Egyszerűen csak felakasztod a falra és mikor hazaérsz csak tedd erre az apró holmikat a zsebedből. És még a kulcsaidnak is fix helye lesz rajta, így a reggeli kulcskeresgélés is megoldódott.</description>
+    <link>1940</link>
+    <image_link>image/catalog/Product_pictures/Fa-deko/fali-kulcstarto-polccal-virag-mintaval-swiss-cottage-deht71034-polcv-h28-00-cm-w9-00-cm-40-00-cm-3.jpg</image_link>
+    <price>213138.6140</price>
+    <brand>SWISS COTTAGE</brand>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>1940</id>
+    <title>Fali kulcstartó polccal, virág mintával - SWISS COTTAGE</title>
+    <description>Folyton csak ledobod az apróságokat a zsebedből az előszobában a komódra? Ettől mindig olyan mintha rendetlenség lenne? Egy kis polc könnyen megoldja ezt a roblémát. Egyszerűen csak felakasztod a falra és mikor hazaérsz csak tedd erre az apró holmikat a zsebedből. És még a kulcsaidnak is fix helye lesz rajta, így a reggeli kulcskeresgélés is megoldódott.</description>
+    <link>1940</link>
+    <image_link>image/catalog/Product_pictures/Fa-deko/fali-kulcstarto-polccal-virag-mintaval-swiss-cottage-deht71034-polcv-h28-00-cm-w9-00-cm-40-00-cm-4.jpg</image_link>
+    <price>213138.6140</price>
+    <brand>SWISS COTTAGE</brand>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>1955</id>
+    <title>LED-es világító fali dekoráció HOME felirattal, fehér - FJORD</title>
+    <description>Ez a fa keretes MDF táblakép tökéletes dekorációja lesz otthonodnak! Állandó fényű fehér LED égővel hangulatos világítás is lehet, ha pedig már nincs szükséged a fényre ki is kapcsolhatod.</description>
+    <link>1955</link>
+    <image_link>image/catalog/Product_pictures/Fa-deko/vilagito-fali-dekoracio-home-felirattal-led-es-fjord-deht71405h-led-h30-00-cm-w3-50-cm-30-00-cm-1.jpg</image_link>
+    <price>23966.2152</price>
+    <brand>FJORD</brand>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>1955</id>
+    <title>LED-es világító fali dekoráció HOME felirattal, fehér - FJORD</title>
+    <description>Ez a fa keretes MDF táblakép tökéletes dekorációja lesz otthonodnak! Állandó fényű fehér LED égővel hangulatos világítás is lehet, ha pedig már nincs szükséged a fényre ki is kapcsolhatod.</description>
+    <link>1955</link>
+    <image_link>image/catalog/Product_pictures/Fa-deko/vilagito-fali-dekoracio-home-felirattal-led-es-fjord-deht71405h-led-h30-00-cm-w3-50-cm-30-00-cm-2.jpg</image_link>
+    <price>23966.2152</price>
+    <brand>FJORD</brand>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>1955</id>
+    <title>LED-es világító fali dekoráció HOME felirattal, fehér - FJORD</title>
+    <description>Ez a fa keretes MDF táblakép tökéletes dekorációja lesz otthonodnak! Állandó fényű fehér LED égővel hangulatos világítás is lehet, ha pedig már nincs szükséged a fényre ki is kapcsolhatod.</description>
+    <link>1955</link>
+    <image_link>image/catalog/Product_pictures/Fa-deko/vilagito-fali-dekoracio-home-felirattal-led-es-fjord-deht71405h-led-h30-00-cm-w3-50-cm-30-00-cm-3.jpg</image_link>
+    <price>23966.2152</price>
+    <brand>FJORD</brand>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>1955</id>
+    <title>LED-es világító fali dekoráció HOME felirattal, fehér - FJORD</title>
+    <description>Ez a fa keretes MDF táblakép tökéletes dekorációja lesz otthonodnak! Állandó fényű fehér LED égővel hangulatos világítás is lehet, ha pedig már nincs szükséged a fényre ki is kapcsolhatod.</description>
+    <link>1955</link>
+    <image_link>image/catalog/Product_pictures/Fa-deko/vilagito-fali-dekoracio-home-felirattal-led-es-fjord-deht71405h-led-h30-00-cm-w3-50-cm-30-00-cm-4.jpg</image_link>
+    <price>23966.2152</price>
+    <brand>FJORD</brand>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>3323</id>
+    <title>Falióra vintage stílusú 60 cm - GRAND PALAIS</title>
+    <description>Modern kivitelezésben a klasszikus falióra. Nagyméretű számok, feltűnő óramutató szín a könnyebb eligazodás érdekében. Lakásunk berendezése akár a modern, akár a klasszikus stílust képviseli, ez a  falióra kiválóan beleolvad bármelyikbe. Ideális ajándék minden alkalomra.</description>
+    <link>3323</link>
+    <image_link>image/catalog/Product_pictures/Faliora/faliora-vintage-stilusu-60-cm-grand-palais-demi60-463paris-h3-00-cm-w60-00-cm-60-00-cm-2.jpg</image_link>
+    <price>266541.3010</price>
+    <brand>GRAND PALAIS</brand>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>3323</id>
+    <title>Falióra vintage stílusú 60 cm - GRAND PALAIS</title>
+    <description>Modern kivitelezésben a klasszikus falióra. Nagyméretű számok, feltűnő óramutató szín a könnyebb eligazodás érdekében. Lakásunk berendezése akár a modern, akár a klasszikus stílust képviseli, ez a  falióra kiválóan beleolvad bármelyikbe. Ideális ajándék minden alkalomra.</description>
+    <link>3323</link>
+    <image_link>image/catalog/Product_pictures/Faliora/faliora-vintage-stilusu-60-cm-grand-palais-demi60-463paris-h3-00-cm-w60-00-cm-60-00-cm-3.jpg</image_link>
+    <price>266541.3010</price>
+    <brand>GRAND PALAIS</brand>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>3323</id>
+    <title>Falióra vintage stílusú 60 cm - GRAND PALAIS</title>
+    <description>Modern kivitelezésben a klasszikus falióra. Nagyméretű számok, feltűnő óramutató szín a könnyebb eligazodás érdekében. Lakásunk berendezése akár a modern, akár a klasszikus stílust képviseli, ez a  falióra kiválóan beleolvad bármelyikbe. Ideális ajándék minden alkalomra.</description>
+    <link>3323</link>
+    <image_link>image/catalog/bannerek/faliora-vintage-stilusu-60-cm-grand-palais-demi60-463paris-h3-00-cm-w60-00-cm-60-00-cm-1.jpg</image_link>
+    <price>266541.3010</price>
+    <brand>GRAND PALAIS</brand>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>4117</id>
+    <title>Modern műanyag szövött szék, rózsaszín - MANILLE</title>
+    <description>Ha szeretnéd egy kicsit a legújabb trendet megjeleníteni otthonodban, akkor ez a fa mintázatú fém lábú, púderrózsaszín műanyag szék ideális választás lesz. Fonatos ülőrésze és kartámlája igazán kényelmes ülést biztosít akár az otthoni íróasztalnál szeretnéd használni, akár az étkezőben, akár a teraszon helyeznéd el.</description>
+    <link>4117</link>
+    <image_link>image/catalog/Product_pictures/DEZS/modern-muanyag-szovott-szek-puder-manille-dezs-433990roz-h79-00-cm-w60-00-cm-60-00-cm-1.jpg</image_link>
+    <price>42201.9586</price>
+    <brand>MANILLE</brand>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>4117</id>
+    <title>Modern műanyag szövött szék, rózsaszín - MANILLE</title>
+    <description>Ha szeretnéd egy kicsit a legújabb trendet megjeleníteni otthonodban, akkor ez a fa mintázatú fém lábú, púderrózsaszín műanyag szék ideális választás lesz. Fonatos ülőrésze és kartámlája igazán kényelmes ülést biztosít akár az otthoni íróasztalnál szeretnéd használni, akár az étkezőben, akár a teraszon helyeznéd el.</description>
+    <link>4117</link>
+    <image_link>image/catalog/Product_pictures/DEZS/modern-muanyag-szovott-szek-puder-manille-dezs-433990roz-h79-00-cm-w60-00-cm-60-00-cm-2.jpg</image_link>
+    <price>42201.9586</price>
+    <brand>MANILLE</brand>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>4117</id>
+    <title>Modern műanyag szövött szék, rózsaszín - MANILLE</title>
+    <description>Ha szeretnéd egy kicsit a legújabb trendet megjeleníteni otthonodban, akkor ez a fa mintázatú fém lábú, púderrózsaszín műanyag szék ideális választás lesz. Fonatos ülőrésze és kartámlája igazán kényelmes ülést biztosít akár az otthoni íróasztalnál szeretnéd használni, akár az étkezőben, akár a teraszon helyeznéd el.</description>
+    <link>4117</link>
+    <image_link>image/catalog/Product_pictures/DEZS/modern-muanyag-szovott-szek-puder-manille-dezs-433990roz-h79-00-cm-w60-00-cm-60-00-cm-3.jpg</image_link>
+    <price>42201.9586</price>
+    <brand>MANILLE</brand>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>4117</id>
+    <title>Modern műanyag szövött szék, rózsaszín - MANILLE</title>
+    <description>Ha szeretnéd egy kicsit a legújabb trendet megjeleníteni otthonodban, akkor ez a fa mintázatú fém lábú, púderrózsaszín műanyag szék ideális választás lesz. Fonatos ülőrésze és kartámlája igazán kényelmes ülést biztosít akár az otthoni íróasztalnál szeretnéd használni, akár az étkezőben, akár a teraszon helyeznéd el.</description>
+    <link>4117</link>
+    <image_link>image/catalog/Product_pictures/DEZS/modern-muanyag-szovott-szek-puder-manille-dezs-433990roz-h79-00-cm-w60-00-cm-60-00-cm-4.jpg</image_link>
+    <price>42201.9586</price>
+    <brand>MANILLE</brand>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>4233</id>
+    <title>Hintafotel, dínó - DINODRAGO</title>
+    <description>A gyerekszobák berendezésében újra hódítanak a hintalovak és hintafotelek egyaránt. Nemcsak kiegészítőként mutat jól egy-egy darab, hanem a játék és készségfejlesztés szempontjából is praktikus! Azon gyerekek számára, akiknek a szoba minden sarkában egy plüssállat figyel, elengedhetetlen egy ilyen dínós hintafotel, melynek szarulemezeit ha megnyomjuk hangot is ad ki.</description>
+    <link>4233</link>
+    <image_link>image/catalog/Product_pictures/Étkezőszettek/hintafotel-dino-dinodrago-sh-gw-dino-h48-00-cm-w31-00-cm-70-00-cm-1.jpg</image_link>
+    <price>421416.6020</price>
+    <brand>DINODRAGO</brand>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>6009</id>
+    <title>Magasfényű szekrény LED világítással, fehér - bükkfa - OSLO</title>
+    <description>Ennek a terméknek még nincs leírása.</description>
+    <link>6009</link>
+    <image_link>image/catalog/Product_pictures/DEJEL/DEJEL-OSLO-FAMILY-L.jpg</image_link>
+    <price>54847.9688</price>
+    <brand>OSLO</brand>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>6011</id>
+    <title>Háromajtós komód, LED világítással, fiókkal és polccal, fehér-bükkfa - OSLO</title>
+    <description>Magasfényű fehér komód, melyen három ajtós rész, egy fiók és egy nyitott, LED-es polc kapott helyet. Nyíló ajtós, melyet a manapság igen kedvelt &amp;quot;push to open&amp;quot; mechanikával láttak el. A letisztult geometrikus vonalaknak köszönhetően lendületet visz a helyiségbe, így modern, fiatalos otthonokba tökéletes választás lehet. Remekül kombinálható az OSLO bútorcsalád többi tagjábal.</description>
+    <link>6011</link>
+    <image_link>image/catalog/butopea_mood_200326_01_V1_1200x1200.jpg</image_link>
+    <price>68149.7541</price>
+    <brand>OSLO</brand>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>6011</id>
+    <title>Háromajtós komód, LED világítással, fiókkal és polccal, fehér-bükkfa - OSLO</title>
+    <description>Magasfényű fehér komód, melyen három ajtós rész, egy fiók és egy nyitott, LED-es polc kapott helyet. Nyíló ajtós, melyet a manapság igen kedvelt &amp;quot;push to open&amp;quot; mechanikával láttak el. A letisztult geometrikus vonalaknak köszönhetően lendületet visz a helyiségbe, így modern, fiatalos otthonokba tökéletes választás lehet. Remekül kombinálható az OSLO bútorcsalád többi tagjábal.</description>
+    <link>6011</link>
+    <image_link>image/catalog/butopea_mood_200326_05_V1_1200x1200.jpg</image_link>
+    <price>68149.7541</price>
+    <brand>OSLO</brand>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>6012</id>
+    <title>Magasfényű falipolc, 139 cm, fehér-bükkfa - OSLO</title>
+    <description>Nagyméretű, magasfényű fehér falipolc, melyet bükkfa színnel egészítettek ki. A letisztult geometrikus vonalaknak köszönhetően lendületet visz a helyiségbe, így modern, fiatalos otthonokba tökéletes választás lehet. Remekül kombinálható az OSLO bútorcsalád többi tagjábal.</description>
+    <link>6012</link>
+    <image_link>image/catalog/butopea_mood_200326_01_V1_1200x1200.jpg</image_link>
+    <price>449099.1292</price>
+    <brand>OSLO</brand>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>6012</id>
+    <title>Magasfényű falipolc, 139 cm, fehér-bükkfa - OSLO</title>
+    <description>Nagyméretű, magasfényű fehér falipolc, melyet bükkfa színnel egészítettek ki. A letisztult geometrikus vonalaknak köszönhetően lendületet visz a helyiségbe, így modern, fiatalos otthonokba tökéletes választás lehet. Remekül kombinálható az OSLO bútorcsalád többi tagjábal.</description>
+    <link>6012</link>
+    <image_link>image/catalog/butopea_mood_200326_02_V1_1200x1200.jpg</image_link>
+    <price>449099.1292</price>
+    <brand>OSLO</brand>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>6012</id>
+    <title>Magasfényű falipolc, 139 cm, fehér-bükkfa - OSLO</title>
+    <description>Nagyméretű, magasfényű fehér falipolc, melyet bükkfa színnel egészítettek ki. A letisztult geometrikus vonalaknak köszönhetően lendületet visz a helyiségbe, így modern, fiatalos otthonokba tökéletes választás lehet. Remekül kombinálható az OSLO bútorcsalád többi tagjábal.</description>
+    <link>6012</link>
+    <image_link>image/catalog/butopea_mood_200326_07_V1_1200x1200.jpg</image_link>
+    <price>449099.1292</price>
+    <brand>OSLO</brand>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>6013</id>
+    <title>TV állvány LED világítással, fehér - bükkfa - OSLO</title>
+    <description>Magasfényű fehér TV állvány bükkfa színű kiegészítéssel, melyen két ajtós rész, egy fiók és egy nyitott, LED-es polc kapott helyet. Nyíló ajtós, melyet a manapság igen kedvelt &amp;quot;push to open&amp;quot; mechanikával láttak el. A letisztult geometrikus vonalaknak köszönhetően lendületet visz a helyiségbe, így modern, fiatalos otthonokba tökéletes választás lehet. Remekül kombinálható az OSLO bútorcsalád többi tagjábal.</description>
+    <link>6013</link>
+    <image_link>image/catalog/butopea_mood_200326_07_V1_1200x1200.jpg</image_link>
+    <price>447055.0784</price>
+    <brand>OSLO</brand>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>6015</id>
+    <title>Kétajtós komód, LED világítással, fiókkal és polccal, fehér-bükkfa - OSLO</title>
+    <description>Magasfényű fehér komód bükkfa színű kiegészítéssel, melyen két ajtós rész, egy fiók és egy nyitott, LED-es polc kapott helyet. Nyíló ajtós, melyet a manapság igen kedvelt &amp;quot;push to open&amp;quot; mechanikával láttak el. A letisztult geometrikus vonalaknak köszönhetően lendületet visz a helyiségbe, így modern, fiatalos otthonokba tökéletes választás lehet. Remekül kombinálható az OSLO bútorcsalád többi tagjábal.</description>
+    <link>6015</link>
+    <image_link>image/catalog/butopea_mood_200326_01_V1_1200x1200.jpg</image_link>
+    <price>638283.6380</price>
+    <brand>OSLO</brand>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>6015</id>
+    <title>Kétajtós komód, LED világítással, fiókkal és polccal, fehér-bükkfa - OSLO</title>
+    <description>Magasfényű fehér komód bükkfa színű kiegészítéssel, melyen két ajtós rész, egy fiók és egy nyitott, LED-es polc kapott helyet. Nyíló ajtós, melyet a manapság igen kedvelt &amp;quot;push to open&amp;quot; mechanikával láttak el. A letisztult geometrikus vonalaknak köszönhetően lendületet visz a helyiségbe, így modern, fiatalos otthonokba tökéletes választás lehet. Remekül kombinálható az OSLO bútorcsalád többi tagjábal.</description>
+    <link>6015</link>
+    <image_link>image/catalog/butopea_mood_200326_04_V1_1200x1200.jpg</image_link>
+    <price>638283.6380</price>
+    <brand>OSLO</brand>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>6043</id>
+    <title>Háromajtós komód, LED világítással, fiókkal és polccal, fehér-diófa - OSLO</title>
+    <description>Magasfényű fehér és aida dió színű komód, melyen három ajtós rész, egy fiók és egy nyitott, LED-es polc kapott helyet. Nyíló ajtós, melyet a manapság igen kedvelt &amp;quot;push to open&amp;quot; mechanikával láttak el. A letisztult geometrikus vonalaknak köszönhetően lendületet visz a helyiségbe, így modern, fiatalos otthonokba tökéletes választás lehet. Remekül kombinálható az OSLO bútorcsalád többi tagjábal.</description>
+    <link>6043</link>
+    <image_link>image/catalog/Product_pictures/DEJEL/DEJEL-OSLO-FAMILY_S.jpg</image_link>
+    <price>135143.9300</price>
+    <brand>OSLO</brand>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>6043</id>
+    <title>Háromajtós komód, LED világítással, fiókkal és polccal, fehér-diófa - OSLO</title>
+    <description>Magasfényű fehér és aida dió színű komód, melyen három ajtós rész, egy fiók és egy nyitott, LED-es polc kapott helyet. Nyíló ajtós, melyet a manapság igen kedvelt &amp;quot;push to open&amp;quot; mechanikával láttak el. A letisztult geometrikus vonalaknak köszönhetően lendületet visz a helyiségbe, így modern, fiatalos otthonokba tökéletes választás lehet. Remekül kombinálható az OSLO bútorcsalád többi tagjábal.</description>
+    <link>6043</link>
+    <image_link>image/catalog/Product_pictures/DEJEL/DEJEL-TN-K31-D-Haromajtos-komod-fiokkal-es-polccal-feher---diofa-OSLO.jpg</image_link>
+    <price>135143.9300</price>
+    <brand>OSLO</brand>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>6045</id>
+    <title>TV állvány LED világítással, fehér-diófa - OSLO</title>
+    <description>Magasfényű fehér TV állvány aida dió színű kiegészítéssel, melyen két ajtós rész, egy fiók és egy nyitott, LED-es polc kapott helyet. Nyíló ajtós, melyet a manapság igen kedvelt &amp;quot;push to open&amp;quot; mechanikával láttak el. A letisztult geometrikus vonalaknak köszönhetően lendületet visz a helyiségbe, így modern, fiatalos otthonokba tökéletes választás lehet. Remekül kombinálható az OSLO bútorcsalád többi tagjábal.</description>
+    <link>6045</link>
+    <image_link>image/catalog/Product_pictures/DEJEL/DEJEL-OSLO-FAMILY_S.jpg</image_link>
+    <price>381810.0431</price>
+    <brand>OSLO</brand>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>6045</id>
+    <title>TV állvány LED világítással, fehér-diófa - OSLO</title>
+    <description>Magasfényű fehér TV állvány aida dió színű kiegészítéssel, melyen két ajtós rész, egy fiók és egy nyitott, LED-es polc kapott helyet. Nyíló ajtós, melyet a manapság igen kedvelt &amp;quot;push to open&amp;quot; mechanikával láttak el. A letisztult geometrikus vonalaknak köszönhetően lendületet visz a helyiségbe, így modern, fiatalos otthonokba tökéletes választás lehet. Remekül kombinálható az OSLO bútorcsalád többi tagjábal.</description>
+    <link>6045</link>
+    <image_link>image/catalog/Product_pictures/DEJEL/DEJEL-TN-TV-D-TV-allvany-feher---diofa-OSLO.jpg</image_link>
+    <price>381810.0431</price>
+    <brand>OSLO</brand>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>6460</id>
+    <title>Műfenyő 180 cm - CASHMERE</title>
+    <description>A kevert levelű műfenyők dússágát, és szépségét az adja, hogy ágaikon nem csak a hagyományos, szalag szerű lapos tűlevelek vannak, hanem 3D-s levelekkel is dúsították őket, melyek az igazi háromszög keresztmetszetű tűlevelek mintájára készültek. Egy kevert levelű műfenyővel olyan hangulatot teremthetünk otthonunkban, mintha a legszebb, legegészségesebb fát vittük volna haza az erdőből.</description>
+    <link>6460</link>
+    <image_link>image/catalog/Product_pictures/DEAQ/deaq-kfb248[d]_2.jpg</image_link>
+    <price>209388.9324</price>
+    <brand>CASHMERE</brand>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>6461</id>
+    <title>Műfenyő 210 cm - CASHMERE</title>
+    <description>A kevert levelű műfenyők dússágát, és szépségét az adja, hogy ágaikon nem csak a hagyományos, szalag szerű lapos tűlevelek vannak, hanem 3D-s levelekkel is dúsították őket, melyek az igazi háromszög keresztmetszetű tűlevelek mintájára készültek. Egy kevert levelű műfenyővel olyan hangulatot teremthetünk otthonunkban, mintha a legszebb, legegészségesebb fát vittük volna haza az erdőből.</description>
+    <link>6461</link>
+    <image_link>image/catalog/Product_pictures/DEAQ/deaq-kfb241[d]_2.jpg</image_link>
+    <price>395569.5207</price>
+    <brand>CASHMERE</brand>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>6463</id>
+    <title>Műfenyő 180 cm - TWIN PEAKS</title>
+    <description>A kevert levelű műfenyők dússágát, és szépségét az adja, hogy ágaikon nem csak a hagyományos, szalag szerű lapos tűlevelek vannak, hanem 3D-s levelekkel is dúsították őket, melyek az igazi háromszög keresztmetszetű tűlevelek mintájára készültek. Egy kevert levelű műfenyővel olyan hangulatot teremthetünk otthonunkban, mintha a legszebb, legegészségesebb fát vittük volna haza az erdőből.</description>
+    <link>6463</link>
+    <image_link>image/catalog/Product_pictures/DEAQ/deaq-kfb098[d]_1.jpg</image_link>
+    <price>26038.0598</price>
+    <brand>TWIN PEAKS</brand>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>6463</id>
+    <title>Műfenyő 180 cm - TWIN PEAKS</title>
+    <description>A kevert levelű műfenyők dússágát, és szépségét az adja, hogy ágaikon nem csak a hagyományos, szalag szerű lapos tűlevelek vannak, hanem 3D-s levelekkel is dúsították őket, melyek az igazi háromszög keresztmetszetű tűlevelek mintájára készültek. Egy kevert levelű műfenyővel olyan hangulatot teremthetünk otthonunkban, mintha a legszebb, legegészségesebb fát vittük volna haza az erdőből.</description>
+    <link>6463</link>
+    <image_link>image/catalog/Product_pictures/DEAQ/deaq-kfb098[d]_2.jpg</image_link>
+    <price>26038.0598</price>
+    <brand>TWIN PEAKS</brand>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>6466</id>
+    <title>Műfenyő 180 cm - CONIFÈRE</title>
+    <description>A kevert levelű műfenyők dússágát, és szépségét az adja, hogy ágaikon nem csak a hagyományos, szalag szerű lapos tűlevelek vannak, hanem 3D-s levelekkel is dúsították őket, melyek az igazi háromszög keresztmetszetű tűlevelek mintájára készültek. Egy kevert levelű műfenyővel olyan hangulatot teremthetünk otthonunkban, mintha a legszebb, legegészségesebb fát vittük volna haza az erdőből.</description>
+    <link>6466</link>
+    <image_link>image/catalog/Product_pictures/DEAQ/deaq-kfb158[d]_2.jpg</image_link>
+    <price>16105.4577</price>
+    <brand>CONIFÈRE</brand>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>6469</id>
+    <title>Műfenyő 3D tűlevelű,180 cm - ROYAL</title>
+    <description>A 3D fák azért olyan élethűek, és gyönyörűek, mert minden egyes tűlevelük az igazi fenyőlevelek mintájára készült. A 2D-s fenyőkkel ellentétben itt az ágakon nem lapos szalagok, hanem tüske jellegű, elvékonyodó tűlevelek találhatóak, melyeknek keresztmetszete akárcsak az igazi fenyőleveleké háromszög alakú.</description>
+    <link>6469</link>
+    <image_link>image/catalog/Product_pictures/DEAQ/deaq-kfb508[d]_2.jpg</image_link>
+    <price>425744.4769</price>
+    <brand>ROYAL</brand>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>6487</id>
+    <title>Műfenyő 180 cm - PINEDE</title>
+    <description>A kevert levelű műfenyők dússágát, és szépségét az adja, hogy ágaikon nem csak a hagyományos, szalag szerű lapos tűlevelek vannak, hanem 3D-s levelekkel is dúsították őket, melyek az igazi háromszög keresztmetszetű tűlevelek mintájára készültek. Egy kevert levelű műfenyővel olyan hangulatot teremthetünk otthonunkban, mintha a legszebb, legegészségesebb fát vittük volna haza az erdőből.</description>
+    <link>6487</link>
+    <image_link>image/catalog/Product_pictures/DEAQ/deaq-kfb228[d]_2.jpg</image_link>
+    <price>578362.3726</price>
+    <brand>PINEDE</brand>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>6491</id>
+    <title>Műfenyő 210 cm - SAPIN DE CRIMEE</title>
+    <description>A műfenyők praktikus voltát már sokan felfedezték - egy minőségi, igényes darab akár egy évtizeden keresztül is a család részévé válhat az ünnepi időszak alatt. A 2D-s fák a legelsők a műfenyők történelmében: ágaikon szalag jellegű levelek egész sora található, melyekről messziről aligha lehet megállapítani, hogy nem igaziak.</description>
+    <link>6491</link>
+    <image_link>image/catalog/Product_pictures/DEAQ/deaq-kfa191[d]_2.jpg</image_link>
+    <price>289612.7755</price>
+    <brand>SAPIN DE CRIMEE</brand>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>6492</id>
+    <title>Müfenyö 240 cm - SAPIN DE CRIMEE</title>
+    <description>A műfenyők praktikus voltát már sokan felfedezték - egy minőségi, igényes darab akár egy évtizeden keresztül is a család részévé válhat az ünnepi időszak alatt. A 2D-s fák a legelsők a műfenyők történelmében: ágaikon szalag jellegű levelek egész sora található, melyekről messziről aligha lehet megállapítani, hogy nem igaziak.</description>
+    <link>6492</link>
+    <image_link>image/catalog/Product_pictures/DEAQ/deaq-kfa194[d]_2.jpg</image_link>
+    <price>8944.0734</price>
+    <brand>SAPIN DE CRIMEE</brand>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>6500</id>
+    <title>Műfenyő 150 cm - NOEL FEERIQUE</title>
+    <description>A kevert levelű műfenyők dússágát, és szépségét az adja, hogy ágaikon nem csak a hagyományos, szalag szerű lapos tűlevelek vannak, hanem 3D-s levelekkel is dúsították őket, melyek az igazi háromszög keresztmetszetű tűlevelek mintájára készültek. Egy kevert levelű műfenyővel olyan hangulatot teremthetünk otthonunkban, mintha a legszebb, legegészségesebb fát vittük volna haza az erdőből.</description>
+    <link>6500</link>
+    <image_link>image/catalog/Product_pictures/DEAQ/deaq-kfb075[d]_2.jpg</image_link>
+    <price>547630.4580</price>
+    <brand>NOEL FEERIQUE</brand>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>6501</id>
+    <title>Műfenyő 180 cm - NOEL FEERIQUE</title>
+    <description>A kevert levelű műfenyők dússágát, és szépségét az adja, hogy ágaikon nem csak a hagyományos, szalag szerű lapos tűlevelek vannak, hanem 3D-s levelekkel is dúsították őket, melyek az igazi háromszög keresztmetszetű tűlevelek mintájára készültek. Egy kevert levelű műfenyővel olyan hangulatot teremthetünk otthonunkban, mintha a legszebb, legegészségesebb fát vittük volna haza az erdőből.</description>
+    <link>6501</link>
+    <image_link>image/catalog/Product_pictures/DEAQ/deaq-kfb078[d]_2.jpg</image_link>
+    <price>179101.5663</price>
+    <brand>NOEL FEERIQUE</brand>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>6502</id>
+    <title>Műfenyő 210 cm - NOEL FEERIQUE</title>
+    <description>A kevert levelű műfenyők dússágát, és szépségét az adja, hogy ágaikon nem csak a hagyományos, szalag szerű lapos tűlevelek vannak, hanem 3D-s levelekkel is dúsították őket, melyek az igazi háromszög keresztmetszetű tűlevelek mintájára készültek. Egy kevert levelű műfenyővel olyan hangulatot teremthetünk otthonunkban, mintha a legszebb, legegészségesebb fát vittük volna haza az erdőből.</description>
+    <link>6502</link>
+    <image_link>image/catalog/Product_pictures/DEAQ/deaq-kfb071[d]_2.jpg</image_link>
+    <price>327644.4083</price>
+    <brand>NOEL FEERIQUE</brand>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>6504</id>
+    <title>Műfenyő 3D tűlevelű, 150 cm - NOEL JOYEUX</title>
+    <description>A 3D fák azért olyan élethűek, és gyönyörűek, mert minden egyes tűlevelük az igazi fenyőlevelek mintájára készült. A 2D-s fenyőkkel ellentétben itt az ágakon nem lapos szalagok, hanem tüske jellegű, elvékonyodó tűlevelek találhatóak, melyeknek keresztmetszete akárcsak az igazi fenyőleveleké háromszög alakú.</description>
+    <link>6504</link>
+    <image_link>image/catalog/Product_pictures/DEAQ/deaq-kfa305[d]_2.jpg</image_link>
+    <price>192001.5506</price>
+    <brand>NOEL JOYEUX</brand>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>6505</id>
+    <title>Műfenyő 3D tűlevelű, 180 cm - NOEL JOYEUX</title>
+    <description>A 3D fák azért olyan élethűek, és gyönyörűek, mert minden egyes tűlevelük az igazi fenyőlevelek mintájára készült. A 2D-s fenyőkkel ellentétben itt az ágakon nem lapos szalagok, hanem tüske jellegű, elvékonyodó tűlevelek találhatóak, melyeknek keresztmetszete akárcsak az igazi fenyőleveleké háromszög alakú.</description>
+    <link>6505</link>
+    <image_link>image/catalog/Product_pictures/DEAQ/deaq-kfa308[d]_2.jpg</image_link>
+    <price>12880.5364</price>
+    <brand>NOEL JOYEUX</brand>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>6512</id>
+    <title>Műfenyő 150 cm - NORWICH</title>
+    <description>A kevert levelű műfenyők dússágát, és szépségét az adja, hogy ágaikon nem csak a hagyományos, szalag szerű lapos tűlevelek vannak, hanem 3D-s levelekkel is dúsították őket, melyek az igazi háromszög keresztmetszetű tűlevelek mintájára készültek. Egy kevert levelű műfenyővel olyan hangulatot teremthetünk otthonunkban, mintha a legszebb, legegészségesebb fát vittük volna haza az erdőből.</description>
+    <link>6512</link>
+    <image_link>image/catalog/Product_pictures/DEAQ/deaq-kfb215[d]_2.jpg</image_link>
+    <price>202833.2726</price>
+    <brand>NORWICH</brand>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>6513</id>
+    <title>Műfenyő 180 cm - NORWICH</title>
+    <description>A kevert levelű műfenyők dússágát, és szépségét az adja, hogy ágaikon nem csak a hagyományos, szalag szerű lapos tűlevelek vannak, hanem 3D-s levelekkel is dúsították őket, melyek az igazi háromszög keresztmetszetű tűlevelek mintájára készültek. Egy kevert levelű műfenyővel olyan hangulatot teremthetünk otthonunkban, mintha a legszebb, legegészségesebb fát vittük volna haza az erdőből.</description>
+    <link>6513</link>
+    <image_link>image/catalog/Product_pictures/DEAQ/deaq-kfb218[d]_2.jpg</image_link>
+    <price>217959.1122</price>
+    <brand>NORWICH</brand>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>6518</id>
+    <title>Műfenyő tobozokal, 180 cm - PINS DE TIROL</title>
+    <description>A kevert levelű műfenyők dússágát, és szépségét az adja, hogy ágaikon nem csak a hagyományos, szalag szerű lapos tűlevelek vannak, hanem 3D-s levelekkel is dúsították őket, melyek az igazi háromszög keresztmetszetű tűlevelek mintájára készültek. Egy kevert levelű műfenyővel olyan hangulatot teremthetünk otthonunkban, mintha a legszebb, legegészségesebb fát vittük volna haza az erdőből.</description>
+    <link>6518</link>
+    <image_link>image/catalog/Product_pictures/DEAQ/deaq-kfb068[d]_2.jpg</image_link>
+    <price>278814.6304</price>
+    <brand>PINS DE TIROL</brand>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>8750</id>
+    <title>Exkluzív függesztett mennyezeti lámpa, széles,  kék - RONDO WIDE</title>
+    <description>Kézzel készült lamellás (lemezes szerkezetű) mennyezeti lámpáink egy különleges darabja, mely garantáltan magára fogja vonni a szobába lépők figyelmét! Ez a stílusos darab egy nagyobb helyiségben mutat igazán jól, ahol nagyobb érvényesülési lehetőséghez tud jutni!</description>
+    <link>8750</link>
+    <image_link>image/catalog/Product_pictures/DELP/delp-neo-06kek[d]_2.jpg</image_link>
+    <price>29319.9574</price>
+    <brand>RONDO WIDE</brand>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>8757</id>
+    <title>Exkluzív függesztett mennyezeti lámpa, kiszélesedő, sötét narancssárga - HABILLÉE</title>
+    <description>Kézzel készült lamellás (lemezes szerkezetű) mennyezeti lámpáink egy különleges darabja, mely garantáltan magára fogja vonni a szobába lépők figyelmét! Ez a stílusos darab egy nagyobb helyiségben mutat igazán jól, ahol nagyobb érvényesülési lehetőséghez tud jutni!</description>
+    <link>8757</link>
+    <image_link>image/catalog/Product_pictures/DELP/delp-brollypi[d]_2.jpg</image_link>
+    <price>19896.7271</price>
+    <brand>HABILLÉE</brand>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>8757</id>
+    <title>Exkluzív függesztett mennyezeti lámpa, kiszélesedő, sötét narancssárga - HABILLÉE</title>
+    <description>Kézzel készült lamellás (lemezes szerkezetű) mennyezeti lámpáink egy különleges darabja, mely garantáltan magára fogja vonni a szobába lépők figyelmét! Ez a stílusos darab egy nagyobb helyiségben mutat igazán jól, ahol nagyobb érvényesülési lehetőséghez tud jutni!</description>
+    <link>8757</link>
+    <image_link>image/catalog/Product_pictures/DELP/delp-brollypi[d]_3.jpg</image_link>
+    <price>19896.7271</price>
+    <brand>HABILLÉE</brand>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>8757</id>
+    <title>Exkluzív függesztett mennyezeti lámpa, kiszélesedő, sötét narancssárga - HABILLÉE</title>
+    <description>Kézzel készült lamellás (lemezes szerkezetű) mennyezeti lámpáink egy különleges darabja, mely garantáltan magára fogja vonni a szobába lépők figyelmét! Ez a stílusos darab egy nagyobb helyiségben mutat igazán jól, ahol nagyobb érvényesülési lehetőséghez tud jutni!</description>
+    <link>8757</link>
+    <image_link>image/catalog/Product_pictures/DELP/delp-brollypi[d]_4.jpg</image_link>
+    <price>19896.7271</price>
+    <brand>HABILLÉE</brand>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>8762</id>
+    <title>Exkluzív függesztett mennyezeti lámpa, S-es méretű, ívelt, fehér   - PIGEON -- reason of letiltás was: Szilvi, a gyártó szerint itt egy lila lámpa látható, nem fehér.</title>
+    <description>Kézzel készült lamellás (lemezes szerkezetű) mennyezeti lámpáink egy különleges darabja, mely garantáltan magára fogja vonni a szobába lépők figyelmét! Ez a stílusos darab egy nagyobb helyiségben mutat igazán jól, ahol nagyobb érvényesülési lehetőséghez tud jutni!</description>
+    <link>8762</link>
+    <image_link>image/catalog/Product_pictures/DELP/delp-dove-midfeh[d]_2.jpg</image_link>
+    <price>72330.8134</price>
+    <brand>PIGEON</brand>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>8768</id>
+    <title>Exkluzív függesztett mennyezeti lámpa, feltűzött, lila - POSSIBILITÉ</title>
+    <description>Kézzel készült lamellás (lemezes szerkezetű) mennyezeti lámpáink egy különleges darabja, mely garantáltan magára fogja vonni a szobába lépők figyelmét! Ez a stílusos darab egy nagyobb helyiségben mutat igazán jól, ahol nagyobb érvényesülési lehetőséghez tud jutni!</description>
+    <link>8768</link>
+    <image_link>image/catalog/Product_pictures/DELP/delp-twist-exlil[d]_2.jpg</image_link>
+    <price>94657.3182</price>
+    <brand>POSSIBILITÉ</brand>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>8768</id>
+    <title>Exkluzív függesztett mennyezeti lámpa, feltűzött, lila - POSSIBILITÉ</title>
+    <description>Kézzel készült lamellás (lemezes szerkezetű) mennyezeti lámpáink egy különleges darabja, mely garantáltan magára fogja vonni a szobába lépők figyelmét! Ez a stílusos darab egy nagyobb helyiségben mutat igazán jól, ahol nagyobb érvényesülési lehetőséghez tud jutni!</description>
+    <link>8768</link>
+    <image_link>image/catalog/Product_pictures/DELP/delp-twist-exlil[d]_3.jpg</image_link>
+    <price>94657.3182</price>
+    <brand>POSSIBILITÉ</brand>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>8769</id>
+    <title>Exkluzív függesztett mennyezeti lámpa, feltűzött, olívazöld - POSSIBILITÉ</title>
+    <description>Kézzel készült lamellás (lemezes szerkezetű) mennyezeti lámpáink egy különleges darabja, mely garantáltan magára fogja vonni a szobába lépők figyelmét! Ez a stílusos darab egy nagyobb helyiségben mutat igazán jól, ahol nagyobb érvényesülési lehetőséghez tud jutni!</description>
+    <link>8769</link>
+    <image_link>image/catalog/Product_pictures/DELP/delp-twist-exzol[d]_2.jpg</image_link>
+    <price>251255.5227</price>
+    <brand>POSSIBILITÉ</brand>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>9037</id>
+    <title>Textilbőr étkezőszék króm vázzal, szürke - BERGAME</title>
+    <description>Ki mondta, hogy az étkezőszéknek unalmasnak kell lennie? Reméljük, hogy mindannyian egyetértünk abban, hogy az étkezőszékek is lehetnek esztétikusak, és készülhetnek minőségi anyagokból, amellett persze, hogy strapabíróak.</description>
+    <link>9037</link>
+    <image_link>image/catalog/Product_pictures/DEAE/deae-as106[d]_2.jpg</image_link>
+    <price>101332.4160</price>
+    <brand>BERGAME</brand>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>9042</id>
+    <title>Textilbőr étkezőszék króm vázzal, bézs - BARI</title>
+    <description>Ki mondta, hogy az étkezőszéknek unalmasnak kell lennie? Reméljük, hogy mindannyian egyetértünk abban, hogy az étkezőszékek is lehetnek esztétikusak, és készülhetnek minőségi anyagokból, amellett persze, hogy strapabíróak.</description>
+    <link>9042</link>
+    <image_link>image/catalog/Product_pictures/DEAE/deae-as110a-bez[d]_2.jpg</image_link>
+    <price>55662.7812</price>
+    <brand>BARI</brand>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>9042</id>
+    <title>Textilbőr étkezőszék króm vázzal, bézs - BARI</title>
+    <description>Ki mondta, hogy az étkezőszéknek unalmasnak kell lennie? Reméljük, hogy mindannyian egyetértünk abban, hogy az étkezőszékek is lehetnek esztétikusak, és készülhetnek minőségi anyagokból, amellett persze, hogy strapabíróak.</description>
+    <link>9042</link>
+    <image_link>image/catalog/Product_pictures/DEAE/deae-as110a-bez[d]_3.jpg</image_link>
+    <price>55662.7812</price>
+    <brand>BARI</brand>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>9050</id>
+    <title>Modern textilbőr étkezőszék díszvarrással, bézs - POMPEI</title>
+    <description>Ki mondta, hogy az étkezőszéknek unalmasnak kell lennie? Reméljük, hogy mindannyian egyetértünk abban, hogy az étkezőszékek is lehetnek esztétikusak, és készülhetnek minőségi anyagokból, amellett persze, hogy strapabíróak.</description>
+    <link>9050</link>
+    <image_link>image/catalog/Product_pictures/DEAE/deae-ase106[d]_2.jpg</image_link>
+    <price>88344.3899</price>
+    <brand>POMPEI</brand>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>9050</id>
+    <title>Modern textilbőr étkezőszék díszvarrással, bézs - POMPEI</title>
+    <description>Ki mondta, hogy az étkezőszéknek unalmasnak kell lennie? Reméljük, hogy mindannyian egyetértünk abban, hogy az étkezőszékek is lehetnek esztétikusak, és készülhetnek minőségi anyagokból, amellett persze, hogy strapabíróak.</description>
+    <link>9050</link>
+    <image_link>image/catalog/Product_pictures/DEAE/deae-ase106[d]_3.jpg</image_link>
+    <price>88344.3899</price>
+    <brand>POMPEI</brand>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>9472</id>
+    <title>Kárpitos ágykeret 140x200 cm, gombos, fekete - NUIT CALME</title>
+    <description>A kétszemélyes ágyak vásárlása előtt több szempontot is érdemes figyelembe vennünk. Az elsődleges szempontok: a kényelem, a dizájn, és a praktikusság! Egy olyan kétszemélyes ágy, mely mind a három szempontnak megfelel hálószobánk valóságos uralkodója lesz!</description>
+    <link>9472</link>
+    <image_link>image/catalog/Product_pictures/DEHS/dehs-1728[d]_2.jpg</image_link>
+    <price>46813.2622</price>
+    <brand>NUIT CALME</brand>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>9472</id>
+    <title>Kárpitos ágykeret 140x200 cm, gombos, fekete - NUIT CALME</title>
+    <description>A kétszemélyes ágyak vásárlása előtt több szempontot is érdemes figyelembe vennünk. Az elsődleges szempontok: a kényelem, a dizájn, és a praktikusság! Egy olyan kétszemélyes ágy, mely mind a három szempontnak megfelel hálószobánk valóságos uralkodója lesz!</description>
+    <link>9472</link>
+    <image_link>image/catalog/Product_pictures/DEHS/dehs-1728[d]_3.jpg</image_link>
+    <price>46813.2622</price>
+    <brand>NUIT CALME</brand>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>9472</id>
+    <title>Kárpitos ágykeret 140x200 cm, gombos, fekete - NUIT CALME</title>
+    <description>A kétszemélyes ágyak vásárlása előtt több szempontot is érdemes figyelembe vennünk. Az elsődleges szempontok: a kényelem, a dizájn, és a praktikusság! Egy olyan kétszemélyes ágy, mely mind a három szempontnak megfelel hálószobánk valóságos uralkodója lesz!</description>
+    <link>9472</link>
+    <image_link>image/catalog/Product_pictures/DEHS/dehs-1728[d]_4.jpg</image_link>
+    <price>46813.2622</price>
+    <brand>NUIT CALME</brand>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>9472</id>
+    <title>Kárpitos ágykeret 140x200 cm, gombos, fekete - NUIT CALME</title>
+    <description>A kétszemélyes ágyak vásárlása előtt több szempontot is érdemes figyelembe vennünk. Az elsődleges szempontok: a kényelem, a dizájn, és a praktikusság! Egy olyan kétszemélyes ágy, mely mind a három szempontnak megfelel hálószobánk valóságos uralkodója lesz!</description>
+    <link>9472</link>
+    <image_link>image/catalog/Product_pictures/DEHS/dehs-1728[d]_5.jpg</image_link>
+    <price>46813.2622</price>
+    <brand>NUIT CALME</brand>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>9472</id>
+    <title>Kárpitos ágykeret 140x200 cm, gombos, fekete - NUIT CALME</title>
+    <description>A kétszemélyes ágyak vásárlása előtt több szempontot is érdemes figyelembe vennünk. Az elsődleges szempontok: a kényelem, a dizájn, és a praktikusság! Egy olyan kétszemélyes ágy, mely mind a három szempontnak megfelel hálószobánk valóságos uralkodója lesz!</description>
+    <link>9472</link>
+    <image_link>image/catalog/Product_pictures/DEHS/dehs-1728[d]_6.jpg</image_link>
+    <price>46813.2622</price>
+    <brand>NUIT CALME</brand>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>9472</id>
+    <title>Kárpitos ágykeret 140x200 cm, gombos, fekete - NUIT CALME</title>
+    <description>A kétszemélyes ágyak vásárlása előtt több szempontot is érdemes figyelembe vennünk. Az elsődleges szempontok: a kényelem, a dizájn, és a praktikusság! Egy olyan kétszemélyes ágy, mely mind a három szempontnak megfelel hálószobánk valóságos uralkodója lesz!</description>
+    <link>9472</link>
+    <image_link>image/catalog/Product_pictures/DEHS/dehs-1728[d]_7.jpg</image_link>
+    <price>46813.2622</price>
+    <brand>NUIT CALME</brand>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>9889</id>
+    <title>Vászon falikép, Hold és Föld, 75x100 cm, fekete - TERRE ET LUNE</title>
+    <description>A változatosság igénye sokunkban megvan – a lakberendezésben azonban a legtöbb dolognak a megváltoztatása vagy sok ideig tart, vagy sokba kerül. Egy olyan lakásdekoráció van, mely kedvező áron, gyorsan, és nagyon nagymértékű változást hoz az otthonunkba: az pedig a falikép! Kombináld, variáld, cseréld le teljesen! És élvezd az új otthonod hangulatát!</description>
+    <link>9889</link>
+    <image_link>image/catalog/Product_pictures/DESY/desy-ca-12829[d]_2.jpg</image_link>
+    <price>20888.3414</price>
+    <brand>TERRE ET LUNE</brand>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>9889</id>
+    <title>Vászon falikép, Hold és Föld, 75x100 cm, fekete - TERRE ET LUNE</title>
+    <description>A változatosság igénye sokunkban megvan – a lakberendezésben azonban a legtöbb dolognak a megváltoztatása vagy sok ideig tart, vagy sokba kerül. Egy olyan lakásdekoráció van, mely kedvező áron, gyorsan, és nagyon nagymértékű változást hoz az otthonunkba: az pedig a falikép! Kombináld, variáld, cseréld le teljesen! És élvezd az új otthonod hangulatát!</description>
+    <link>9889</link>
+    <image_link>image/catalog/Product_pictures/DESY/desy-ca-12829[d]_3.jpg</image_link>
+    <price>20888.3414</price>
+    <brand>TERRE ET LUNE</brand>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>9889</id>
+    <title>Vászon falikép, Hold és Föld, 75x100 cm, fekete - TERRE ET LUNE</title>
+    <description>A változatosság igénye sokunkban megvan – a lakberendezésben azonban a legtöbb dolognak a megváltoztatása vagy sok ideig tart, vagy sokba kerül. Egy olyan lakásdekoráció van, mely kedvező áron, gyorsan, és nagyon nagymértékű változást hoz az otthonunkba: az pedig a falikép! Kombináld, variáld, cseréld le teljesen! És élvezd az új otthonod hangulatát!</description>
+    <link>9889</link>
+    <image_link>image/catalog/Product_pictures/DESY/desy-ca-12829[d]_4.jpg</image_link>
+    <price>20888.3414</price>
+    <brand>TERRE ET LUNE</brand>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>9891</id>
+    <title>Üveg falikép, Föld, 50x125 cm, kék - ESPACE</title>
+    <description>A változatosság igénye sokunkban megvan – a lakberendezésben azonban a legtöbb dolognak a megváltoztatása vagy sok ideig tart, vagy sokba kerül. Egy olyan lakásdekoráció van, mely kedvező áron, gyorsan, és nagyon nagymértékű változást hoz az otthonunkba: az pedig a falikép! Kombináld, variáld, cseréld le teljesen! És élvezd az új otthonod hangulatát!</description>
+    <link>9891</link>
+    <image_link>image/catalog/Product_pictures/DESY/desy-gl-02061[d]_2.jpg</image_link>
+    <price>306264.8683</price>
+    <brand>ESPACE</brand>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>9891</id>
+    <title>Üveg falikép, Föld, 50x125 cm, kék - ESPACE</title>
+    <description>A változatosság igénye sokunkban megvan – a lakberendezésben azonban a legtöbb dolognak a megváltoztatása vagy sok ideig tart, vagy sokba kerül. Egy olyan lakásdekoráció van, mely kedvező áron, gyorsan, és nagyon nagymértékű változást hoz az otthonunkba: az pedig a falikép! Kombináld, variáld, cseréld le teljesen! És élvezd az új otthonod hangulatát!</description>
+    <link>9891</link>
+    <image_link>image/catalog/Product_pictures/DESY/desy-gl-02061[d]_3.jpg</image_link>
+    <price>306264.8683</price>
+    <brand>ESPACE</brand>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>9891</id>
+    <title>Üveg falikép, Föld, 50x125 cm, kék - ESPACE</title>
+    <description>A változatosság igénye sokunkban megvan – a lakberendezésben azonban a legtöbb dolognak a megváltoztatása vagy sok ideig tart, vagy sokba kerül. Egy olyan lakásdekoráció van, mely kedvező áron, gyorsan, és nagyon nagymértékű változást hoz az otthonunkba: az pedig a falikép! Kombináld, variáld, cseréld le teljesen! És élvezd az új otthonod hangulatát!</description>
+    <link>9891</link>
+    <image_link>image/catalog/Product_pictures/DESY/desy-gl-02061[d]_4.jpg</image_link>
+    <price>306264.8683</price>
+    <brand>ESPACE</brand>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>9893</id>
+    <title>Üveg falióra, Hold, 30 cm, szürke - FACE CACHEE</title>
+    <description>Egy igényes falióra praktikusságán túl még dekoratív funkciót is betölthet, a különféle stílusokban berendezett otthonunkat bátran kiegészíthetjük egy nagyméretű faliórával, mely emblematikus befejező eleme lehet a dekorálásának!</description>
+    <link>9893</link>
+    <image_link>image/catalog/Product_pictures/DESY/desy-gl-12539[d]_2.jpg</image_link>
+    <price>17800.2254</price>
+    <brand>FACE CACHEE</brand>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>9893</id>
+    <title>Üveg falióra, Hold, 30 cm, szürke - FACE CACHEE</title>
+    <description>Egy igényes falióra praktikusságán túl még dekoratív funkciót is betölthet, a különféle stílusokban berendezett otthonunkat bátran kiegészíthetjük egy nagyméretű faliórával, mely emblematikus befejező eleme lehet a dekorálásának!</description>
+    <link>9893</link>
+    <image_link>image/catalog/Product_pictures/DESY/desy-gl-12539[d]_3.jpg</image_link>
+    <price>17800.2254</price>
+    <brand>FACE CACHEE</brand>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>9893</id>
+    <title>Üveg falióra, Hold, 30 cm, szürke - FACE CACHEE</title>
+    <description>Egy igényes falióra praktikusságán túl még dekoratív funkciót is betölthet, a különféle stílusokban berendezett otthonunkat bátran kiegészíthetjük egy nagyméretű faliórával, mely emblematikus befejező eleme lehet a dekorálásának!</description>
+    <link>9893</link>
+    <image_link>image/catalog/Product_pictures/DESY/desy-gl-12539[d]_4.jpg</image_link>
+    <price>17800.2254</price>
+    <brand>FACE CACHEE</brand>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>9894</id>
+    <title>Keretezett falikép, Hold, 50x70 cm, szürke-fekete - PLEINE LUNE</title>
+    <description>A változatosság igénye sokunkban megvan – a lakberendezésben azonban a legtöbb dolognak a megváltoztatása vagy sok ideig tart, vagy sokba kerül. Egy olyan lakásdekoráció van, mely kedvező áron, gyorsan, és nagyon nagymértékű változást hoz az otthonunkba: az pedig a falikép! Kombináld, variáld, cseréld le teljesen! És élvezd az új otthonod hangulatát!</description>
+    <link>9894</link>
+    <image_link>image/catalog/Product_pictures/DESY/desy-ob-13923[d]_2.jpg</image_link>
+    <price>190185.2032</price>
+    <brand>PLEINE LUNE</brand>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>9894</id>
+    <title>Keretezett falikép, Hold, 50x70 cm, szürke-fekete - PLEINE LUNE</title>
+    <description>A változatosság igénye sokunkban megvan – a lakberendezésben azonban a legtöbb dolognak a megváltoztatása vagy sok ideig tart, vagy sokba kerül. Egy olyan lakásdekoráció van, mely kedvező áron, gyorsan, és nagyon nagymértékű változást hoz az otthonunkba: az pedig a falikép! Kombináld, variáld, cseréld le teljesen! És élvezd az új otthonod hangulatát!</description>
+    <link>9894</link>
+    <image_link>image/catalog/Product_pictures/DESY/desy-ob-13923[d]_3.jpg</image_link>
+    <price>190185.2032</price>
+    <brand>PLEINE LUNE</brand>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>9894</id>
+    <title>Keretezett falikép, Hold, 50x70 cm, szürke-fekete - PLEINE LUNE</title>
+    <description>A változatosság igénye sokunkban megvan – a lakberendezésben azonban a legtöbb dolognak a megváltoztatása vagy sok ideig tart, vagy sokba kerül. Egy olyan lakásdekoráció van, mely kedvező áron, gyorsan, és nagyon nagymértékű változást hoz az otthonunkba: az pedig a falikép! Kombináld, variáld, cseréld le teljesen! És élvezd az új otthonod hangulatát!</description>
+    <link>9894</link>
+    <image_link>image/catalog/Product_pictures/DESY/desy-ob-13923[d]_4.jpg</image_link>
+    <price>190185.2032</price>
+    <brand>PLEINE LUNE</brand>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>9895</id>
+    <title>Keretezett falikép, holdfogyatkozás, 50x70 cm, szürke-fekete - ECLIPSE</title>
+    <description>A változatosság igénye sokunkban megvan – a lakberendezésben azonban a legtöbb dolognak a megváltoztatása vagy sok ideig tart, vagy sokba kerül. Egy olyan lakásdekoráció van, mely kedvező áron, gyorsan, és nagyon nagymértékű változást hoz az otthonunkba: az pedig a falikép! Kombináld, variáld, cseréld le teljesen! És élvezd az új otthonod hangulatát!</description>
+    <link>9895</link>
+    <image_link>image/catalog/Product_pictures/DESY/desy-ob-13924[d]_2.jpg</image_link>
+    <price>1329.5097</price>
+    <brand>ECLIPSE</brand>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>9895</id>
+    <title>Keretezett falikép, holdfogyatkozás, 50x70 cm, szürke-fekete - ECLIPSE</title>
+    <description>A változatosság igénye sokunkban megvan – a lakberendezésben azonban a legtöbb dolognak a megváltoztatása vagy sok ideig tart, vagy sokba kerül. Egy olyan lakásdekoráció van, mely kedvező áron, gyorsan, és nagyon nagymértékű változást hoz az otthonunkba: az pedig a falikép! Kombináld, variáld, cseréld le teljesen! És élvezd az új otthonod hangulatát!</description>
+    <link>9895</link>
+    <image_link>image/catalog/Product_pictures/DESY/desy-ob-13924[d]_3.jpg</image_link>
+    <price>1329.5097</price>
+    <brand>ECLIPSE</brand>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>9895</id>
+    <title>Keretezett falikép, holdfogyatkozás, 50x70 cm, szürke-fekete - ECLIPSE</title>
+    <description>A változatosság igénye sokunkban megvan – a lakberendezésben azonban a legtöbb dolognak a megváltoztatása vagy sok ideig tart, vagy sokba kerül. Egy olyan lakásdekoráció van, mely kedvező áron, gyorsan, és nagyon nagymértékű változást hoz az otthonunkba: az pedig a falikép! Kombináld, variáld, cseréld le teljesen! És élvezd az új otthonod hangulatát!</description>
+    <link>9895</link>
+    <image_link>image/catalog/Product_pictures/DESY/desy-ob-13924[d]_4.jpg</image_link>
+    <price>1329.5097</price>
+    <brand>ECLIPSE</brand>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>9907</id>
+    <title>Keretezett falikép, rombusz mozaik mintával, 50x70 cm, rosegold - CALEIDOSCOPE</title>
+    <description>A változatosság igénye sokunkban megvan – a lakberendezésben azonban a legtöbb dolognak a megváltoztatása vagy sok ideig tart, vagy sokba kerül. Egy olyan lakásdekoráció van, mely kedvező áron, gyorsan, és nagyon nagymértékű változást hoz az otthonunkba: az pedig a falikép! Kombináld, variáld, cseréld le teljesen! És élvezd az új otthonod hangulatát!</description>
+    <link>9907</link>
+    <image_link>image/catalog/Product_pictures/DESY/desy-ob-02669[d]_2.jpg</image_link>
+    <price>424651.9067</price>
+    <brand>CALEIDOSCOPE</brand>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>9907</id>
+    <title>Keretezett falikép, rombusz mozaik mintával, 50x70 cm, rosegold - CALEIDOSCOPE</title>
+    <description>A változatosság igénye sokunkban megvan – a lakberendezésben azonban a legtöbb dolognak a megváltoztatása vagy sok ideig tart, vagy sokba kerül. Egy olyan lakásdekoráció van, mely kedvező áron, gyorsan, és nagyon nagymértékű változást hoz az otthonunkba: az pedig a falikép! Kombináld, variáld, cseréld le teljesen! És élvezd az új otthonod hangulatát!</description>
+    <link>9907</link>
+    <image_link>image/catalog/Product_pictures/DESY/desy-ob-02669[d]_3.jpg</image_link>
+    <price>424651.9067</price>
+    <brand>CALEIDOSCOPE</brand>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>9907</id>
+    <title>Keretezett falikép, rombusz mozaik mintával, 50x70 cm, rosegold - CALEIDOSCOPE</title>
+    <description>A változatosság igénye sokunkban megvan – a lakberendezésben azonban a legtöbb dolognak a megváltoztatása vagy sok ideig tart, vagy sokba kerül. Egy olyan lakásdekoráció van, mely kedvező áron, gyorsan, és nagyon nagymértékű változást hoz az otthonunkba: az pedig a falikép! Kombináld, variáld, cseréld le teljesen! És élvezd az új otthonod hangulatát!</description>
+    <link>9907</link>
+    <image_link>image/catalog/Product_pictures/DESY/desy-ob-02669[d]_4.jpg</image_link>
+    <price>424651.9067</price>
+    <brand>CALEIDOSCOPE</brand>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>9913</id>
+    <title>Vászon falikép, szépia kikötő, 60x150 cm, nude - PONTON</title>
+    <description>A változatosság igénye sokunkban megvan – a lakberendezésben azonban a legtöbb dolognak a megváltoztatása vagy sok ideig tart, vagy sokba kerül. Egy olyan lakásdekoráció van, mely kedvező áron, gyorsan, és nagyon nagymértékű változást hoz az otthonunkba: az pedig a falikép! Kombináld, variáld, cseréld le teljesen! És élvezd az új otthonod hangulatát!</description>
+    <link>9913</link>
+    <image_link>image/catalog/Product_pictures/DESY/desy-ca-11902[d]_2.jpg</image_link>
+    <price>186048.3316</price>
+    <brand>PONTON</brand>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>9913</id>
+    <title>Vászon falikép, szépia kikötő, 60x150 cm, nude - PONTON</title>
+    <description>A változatosság igénye sokunkban megvan – a lakberendezésben azonban a legtöbb dolognak a megváltoztatása vagy sok ideig tart, vagy sokba kerül. Egy olyan lakásdekoráció van, mely kedvező áron, gyorsan, és nagyon nagymértékű változást hoz az otthonunkba: az pedig a falikép! Kombináld, variáld, cseréld le teljesen! És élvezd az új otthonod hangulatát!</description>
+    <link>9913</link>
+    <image_link>image/catalog/Product_pictures/DESY/desy-ca-11902[d]_3.jpg</image_link>
+    <price>186048.3316</price>
+    <brand>PONTON</brand>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>9913</id>
+    <title>Vászon falikép, szépia kikötő, 60x150 cm, nude - PONTON</title>
+    <description>A változatosság igénye sokunkban megvan – a lakberendezésben azonban a legtöbb dolognak a megváltoztatása vagy sok ideig tart, vagy sokba kerül. Egy olyan lakásdekoráció van, mely kedvező áron, gyorsan, és nagyon nagymértékű változást hoz az otthonunkba: az pedig a falikép! Kombináld, variáld, cseréld le teljesen! És élvezd az új otthonod hangulatát!</description>
+    <link>9913</link>
+    <image_link>image/catalog/Product_pictures/DESY/desy-ca-11902[d]_4.jpg</image_link>
+    <price>186048.3316</price>
+    <brand>PONTON</brand>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>9916</id>
+    <title>Vászon falikép, nő vörös rúzzsal, 60x60 cm, fekete-piros - ROUGE BAISER</title>
+    <description>A változatosság igénye sokunkban megvan – a lakberendezésben azonban a legtöbb dolognak a megváltoztatása vagy sok ideig tart, vagy sokba kerül. Egy olyan lakásdekoráció van, mely kedvező áron, gyorsan, és nagyon nagymértékű változást hoz az otthonunkba: az pedig a falikép! Kombináld, variáld, cseréld le teljesen! És élvezd az új otthonod hangulatát!</description>
+    <link>9916</link>
+    <image_link>image/catalog/Product_pictures/DESY/desy-ca-00825[d]_2.jpeg</image_link>
+    <price>325422.6344</price>
+    <brand>ROUGE BAISER</brand>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>9916</id>
+    <title>Vászon falikép, nő vörös rúzzsal, 60x60 cm, fekete-piros - ROUGE BAISER</title>
+    <description>A változatosság igénye sokunkban megvan – a lakberendezésben azonban a legtöbb dolognak a megváltoztatása vagy sok ideig tart, vagy sokba kerül. Egy olyan lakásdekoráció van, mely kedvező áron, gyorsan, és nagyon nagymértékű változást hoz az otthonunkba: az pedig a falikép! Kombináld, variáld, cseréld le teljesen! És élvezd az új otthonod hangulatát!</description>
+    <link>9916</link>
+    <image_link>image/catalog/Product_pictures/DESY/desy-ca-00825[d]_3.jpeg</image_link>
+    <price>325422.6344</price>
+    <brand>ROUGE BAISER</brand>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>9916</id>
+    <title>Vászon falikép, nő vörös rúzzsal, 60x60 cm, fekete-piros - ROUGE BAISER</title>
+    <description>A változatosság igénye sokunkban megvan – a lakberendezésben azonban a legtöbb dolognak a megváltoztatása vagy sok ideig tart, vagy sokba kerül. Egy olyan lakásdekoráció van, mely kedvező áron, gyorsan, és nagyon nagymértékű változást hoz az otthonunkba: az pedig a falikép! Kombináld, variáld, cseréld le teljesen! És élvezd az új otthonod hangulatát!</description>
+    <link>9916</link>
+    <image_link>image/catalog/Product_pictures/DESY/desy-ca-00825[d]_4.jpg</image_link>
+    <price>325422.6344</price>
+    <brand>ROUGE BAISER</brand>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>9917</id>
+    <title>Vászon falikép, nő napszemüvegben, 60x80 cm, fekete-fehér - STYLEE</title>
+    <description>A változatosság igénye sokunkban megvan – a lakberendezésben azonban a legtöbb dolognak a megváltoztatása vagy sok ideig tart, vagy sokba kerül. Egy olyan lakásdekoráció van, mely kedvező áron, gyorsan, és nagyon nagymértékű változást hoz az otthonunkba: az pedig a falikép! Kombináld, variáld, cseréld le teljesen! És élvezd az új otthonod hangulatát!</description>
+    <link>9917</link>
+    <image_link>image/catalog/Product_pictures/DESY/desy-ca-01139[d]_2.jpeg</image_link>
+    <price>62422.8874</price>
+    <brand>STYLEE</brand>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>9917</id>
+    <title>Vászon falikép, nő napszemüvegben, 60x80 cm, fekete-fehér - STYLEE</title>
+    <description>A változatosság igénye sokunkban megvan – a lakberendezésben azonban a legtöbb dolognak a megváltoztatása vagy sok ideig tart, vagy sokba kerül. Egy olyan lakásdekoráció van, mely kedvező áron, gyorsan, és nagyon nagymértékű változást hoz az otthonunkba: az pedig a falikép! Kombináld, variáld, cseréld le teljesen! És élvezd az új otthonod hangulatát!</description>
+    <link>9917</link>
+    <image_link>image/catalog/Product_pictures/DESY/desy-ca-01139[d]_3.jpg</image_link>
+    <price>62422.8874</price>
+    <brand>STYLEE</brand>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>9917</id>
+    <title>Vászon falikép, nő napszemüvegben, 60x80 cm, fekete-fehér - STYLEE</title>
+    <description>A változatosság igénye sokunkban megvan – a lakberendezésben azonban a legtöbb dolognak a megváltoztatása vagy sok ideig tart, vagy sokba kerül. Egy olyan lakásdekoráció van, mely kedvező áron, gyorsan, és nagyon nagymértékű változást hoz az otthonunkba: az pedig a falikép! Kombináld, variáld, cseréld le teljesen! És élvezd az új otthonod hangulatát!</description>
+    <link>9917</link>
+    <image_link>image/catalog/Product_pictures/DESY/desy-ca-01139[d]_4.jpg</image_link>
+    <price>62422.8874</price>
+    <brand>STYLEE</brand>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>9917</id>
+    <title>Vászon falikép, nő napszemüvegben, 60x80 cm, fekete-fehér - STYLEE</title>
+    <description>A változatosság igénye sokunkban megvan – a lakberendezésben azonban a legtöbb dolognak a megváltoztatása vagy sok ideig tart, vagy sokba kerül. Egy olyan lakásdekoráció van, mely kedvező áron, gyorsan, és nagyon nagymértékű változást hoz az otthonunkba: az pedig a falikép! Kombináld, variáld, cseréld le teljesen! És élvezd az új otthonod hangulatát!</description>
+    <link>9917</link>
+    <image_link>image/catalog/Product_pictures/DESY/desy-ca-01139[d]_5.jpg</image_link>
+    <price>62422.8874</price>
+    <brand>STYLEE</brand>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>9930</id>
+    <title>Keretezett poszter, nádbuzogányok, 50x70 cm, barna - PRAIRIE</title>
+    <description>A változatosság igénye sokunkban megvan – a lakberendezésben azonban a legtöbb dolognak a megváltoztatása vagy sok ideig tart, vagy sokba kerül. Egy olyan lakásdekoráció van, mely kedvező áron, gyorsan, és nagyon nagymértékű változást hoz az otthonunkba: az pedig a falikép! Kombináld, variáld, cseréld le teljesen! És élvezd az új otthonod hangulatát!</description>
+    <link>9930</link>
+    <image_link>image/catalog/Product_pictures/DESY/desy-ob-13811[d]_2.jpg</image_link>
+    <price>821739.8142</price>
+    <brand>Prairie</brand>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>9930</id>
+    <title>Keretezett poszter, nádbuzogányok, 50x70 cm, barna - PRAIRIE</title>
+    <description>A változatosság igénye sokunkban megvan – a lakberendezésben azonban a legtöbb dolognak a megváltoztatása vagy sok ideig tart, vagy sokba kerül. Egy olyan lakásdekoráció van, mely kedvező áron, gyorsan, és nagyon nagymértékű változást hoz az otthonunkba: az pedig a falikép! Kombináld, variáld, cseréld le teljesen! És élvezd az új otthonod hangulatát!</description>
+    <link>9930</link>
+    <image_link>image/catalog/Product_pictures/DESY/desy-ob-13811[d]_3.jpg</image_link>
+    <price>821739.8142</price>
+    <brand>Prairie</brand>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>9930</id>
+    <title>Keretezett poszter, nádbuzogányok, 50x70 cm, barna - PRAIRIE</title>
+    <description>A változatosság igénye sokunkban megvan – a lakberendezésben azonban a legtöbb dolognak a megváltoztatása vagy sok ideig tart, vagy sokba kerül. Egy olyan lakásdekoráció van, mely kedvező áron, gyorsan, és nagyon nagymértékű változást hoz az otthonunkba: az pedig a falikép! Kombináld, variáld, cseréld le teljesen! És élvezd az új otthonod hangulatát!</description>
+    <link>9930</link>
+    <image_link>image/catalog/Product_pictures/DESY/desy-ob-13811[d]_4.jpg</image_link>
+    <price>821739.8142</price>
+    <brand>Prairie</brand>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>9931</id>
+    <title>Keretezett poszter, tenger, 50x70 cm, kék - MER CALME</title>
+    <description>A változatosság igénye sokunkban megvan – a lakberendezésben azonban a legtöbb dolognak a megváltoztatása vagy sok ideig tart, vagy sokba kerül. Egy olyan lakásdekoráció van, mely kedvező áron, gyorsan, és nagyon nagymértékű változást hoz az otthonunkba: az pedig a falikép! Kombináld, variáld, cseréld le teljesen! És élvezd az új otthonod hangulatát!</description>
+    <link>9931</link>
+    <image_link>image/catalog/Product_pictures/DESY/desy-ob-13812[d]_2.jpg</image_link>
+    <price>61439.6364</price>
+    <brand>MER CALME</brand>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>9931</id>
+    <title>Keretezett poszter, tenger, 50x70 cm, kék - MER CALME</title>
+    <description>A változatosság igénye sokunkban megvan – a lakberendezésben azonban a legtöbb dolognak a megváltoztatása vagy sok ideig tart, vagy sokba kerül. Egy olyan lakásdekoráció van, mely kedvező áron, gyorsan, és nagyon nagymértékű változást hoz az otthonunkba: az pedig a falikép! Kombináld, variáld, cseréld le teljesen! És élvezd az új otthonod hangulatát!</description>
+    <link>9931</link>
+    <image_link>image/catalog/Product_pictures/DESY/desy-ob-13812[d]_3.jpg</image_link>
+    <price>61439.6364</price>
+    <brand>MER CALME</brand>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>9931</id>
+    <title>Keretezett poszter, tenger, 50x70 cm, kék - MER CALME</title>
+    <description>A változatosság igénye sokunkban megvan – a lakberendezésben azonban a legtöbb dolognak a megváltoztatása vagy sok ideig tart, vagy sokba kerül. Egy olyan lakásdekoráció van, mely kedvező áron, gyorsan, és nagyon nagymértékű változást hoz az otthonunkba: az pedig a falikép! Kombináld, variáld, cseréld le teljesen! És élvezd az új otthonod hangulatát!</description>
+    <link>9931</link>
+    <image_link>image/catalog/Product_pictures/DESY/desy-ob-13812[d]_4.jpg</image_link>
+    <price>61439.6364</price>
+    <brand>MER CALME</brand>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>9934</id>
+    <title>Üveg falikép, rózsák, 50x70 cm, fehér-kék - BLUE DREAM</title>
+    <description>A változatosság igénye sokunkban megvan – a lakberendezésben azonban a legtöbb dolognak a megváltoztatása vagy sok ideig tart, vagy sokba kerül. Egy olyan lakásdekoráció van, mely kedvező áron, gyorsan, és nagyon nagymértékű változást hoz az otthonunkba: az pedig a falikép! Kombináld, variáld, cseréld le teljesen! És élvezd az új otthonod hangulatát!</description>
+    <link>9934</link>
+    <image_link>image/catalog/Product_pictures/DESY/desy-gl-01821[d]_2.jpg</image_link>
+    <price>615267.2763</price>
+    <brand>BLUE DREAM</brand>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>9934</id>
+    <title>Üveg falikép, rózsák, 50x70 cm, fehér-kék - BLUE DREAM</title>
+    <description>A változatosság igénye sokunkban megvan – a lakberendezésben azonban a legtöbb dolognak a megváltoztatása vagy sok ideig tart, vagy sokba kerül. Egy olyan lakásdekoráció van, mely kedvező áron, gyorsan, és nagyon nagymértékű változást hoz az otthonunkba: az pedig a falikép! Kombináld, variáld, cseréld le teljesen! És élvezd az új otthonod hangulatát!</description>
+    <link>9934</link>
+    <image_link>image/catalog/Product_pictures/DESY/desy-gl-01821[d]_3.jpg</image_link>
+    <price>615267.2763</price>
+    <brand>BLUE DREAM</brand>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>9934</id>
+    <title>Üveg falikép, rózsák, 50x70 cm, fehér-kék - BLUE DREAM</title>
+    <description>A változatosság igénye sokunkban megvan – a lakberendezésben azonban a legtöbb dolognak a megváltoztatása vagy sok ideig tart, vagy sokba kerül. Egy olyan lakásdekoráció van, mely kedvező áron, gyorsan, és nagyon nagymértékű változást hoz az otthonunkba: az pedig a falikép! Kombináld, variáld, cseréld le teljesen! És élvezd az új otthonod hangulatát!</description>
+    <link>9934</link>
+    <image_link>image/catalog/Product_pictures/DESY/desy-gl-01821[d]_4.jpg</image_link>
+    <price>615267.2763</price>
+    <brand>BLUE DREAM</brand>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>9935</id>
+    <title>Üveg falikép, rózsák, 50x70 cm, kék-arany - NOCTURNE</title>
+    <description>A változatosság igénye sokunkban megvan – a lakberendezésben azonban a legtöbb dolognak a megváltoztatása vagy sok ideig tart, vagy sokba kerül. Egy olyan lakásdekoráció van, mely kedvező áron, gyorsan, és nagyon nagymértékű változást hoz az otthonunkba: az pedig a falikép! Kombináld, variáld, cseréld le teljesen! És élvezd az új otthonod hangulatát!</description>
+    <link>9935</link>
+    <image_link>image/catalog/Product_pictures/DESY/desy-gl-01822[d]_2.jpg</image_link>
+    <price>8534.2996</price>
+    <brand>NOCTURNE</brand>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>9935</id>
+    <title>Üveg falikép, rózsák, 50x70 cm, kék-arany - NOCTURNE</title>
+    <description>A változatosság igénye sokunkban megvan – a lakberendezésben azonban a legtöbb dolognak a megváltoztatása vagy sok ideig tart, vagy sokba kerül. Egy olyan lakásdekoráció van, mely kedvező áron, gyorsan, és nagyon nagymértékű változást hoz az otthonunkba: az pedig a falikép! Kombináld, variáld, cseréld le teljesen! És élvezd az új otthonod hangulatát!</description>
+    <link>9935</link>
+    <image_link>image/catalog/Product_pictures/DESY/desy-gl-01822[d]_3.jpg</image_link>
+    <price>8534.2996</price>
+    <brand>NOCTURNE</brand>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>9935</id>
+    <title>Üveg falikép, rózsák, 50x70 cm, kék-arany - NOCTURNE</title>
+    <description>A változatosság igénye sokunkban megvan – a lakberendezésben azonban a legtöbb dolognak a megváltoztatása vagy sok ideig tart, vagy sokba kerül. Egy olyan lakásdekoráció van, mely kedvező áron, gyorsan, és nagyon nagymértékű változást hoz az otthonunkba: az pedig a falikép! Kombináld, variáld, cseréld le teljesen! És élvezd az új otthonod hangulatát!</description>
+    <link>9935</link>
+    <image_link>image/catalog/Product_pictures/DESY/desy-gl-01822[d]_4.jpg</image_link>
+    <price>8534.2996</price>
+    <brand>NOCTURNE</brand>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>9936</id>
+    <title>Üveg falikép, pipacsok, 50x70 cm, púderrózsaszín - PINK DREAM</title>
+    <description>A változatosság igénye sokunkban megvan – a lakberendezésben azonban a legtöbb dolognak a megváltoztatása vagy sok ideig tart, vagy sokba kerül. Egy olyan lakásdekoráció van, mely kedvező áron, gyorsan, és nagyon nagymértékű változást hoz az otthonunkba: az pedig a falikép! Kombináld, variáld, cseréld le teljesen! És élvezd az új otthonod hangulatát!</description>
+    <link>9936</link>
+    <image_link>image/catalog/Product_pictures/DESY/desy-gl-01823[d]_2.jpg</image_link>
+    <price>62328.0077</price>
+    <brand>PINK DREAM</brand>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>9936</id>
+    <title>Üveg falikép, pipacsok, 50x70 cm, púderrózsaszín - PINK DREAM</title>
+    <description>A változatosság igénye sokunkban megvan – a lakberendezésben azonban a legtöbb dolognak a megváltoztatása vagy sok ideig tart, vagy sokba kerül. Egy olyan lakásdekoráció van, mely kedvező áron, gyorsan, és nagyon nagymértékű változást hoz az otthonunkba: az pedig a falikép! Kombináld, variáld, cseréld le teljesen! És élvezd az új otthonod hangulatát!</description>
+    <link>9936</link>
+    <image_link>image/catalog/Product_pictures/DESY/desy-gl-01823[d]_3.jpg</image_link>
+    <price>62328.0077</price>
+    <brand>PINK DREAM</brand>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>9936</id>
+    <title>Üveg falikép, pipacsok, 50x70 cm, púderrózsaszín - PINK DREAM</title>
+    <description>A változatosság igénye sokunkban megvan – a lakberendezésben azonban a legtöbb dolognak a megváltoztatása vagy sok ideig tart, vagy sokba kerül. Egy olyan lakásdekoráció van, mely kedvező áron, gyorsan, és nagyon nagymértékű változást hoz az otthonunkba: az pedig a falikép! Kombináld, variáld, cseréld le teljesen! És élvezd az új otthonod hangulatát!</description>
+    <link>9936</link>
+    <image_link>image/catalog/Product_pictures/DESY/desy-gl-01823[d]_4.jpg</image_link>
+    <price>62328.0077</price>
+    <brand>PINK DREAM</brand>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>9937</id>
+    <title>Falikép,  kávéval minden lehetséges, 30x40 cm,  fekete - COFFEE</title>
+    <description>A változatosság igénye sokunkban megvan – a lakberendezésben azonban a legtöbb dolognak a megváltoztatása vagy sok ideig tart, vagy sokba kerül. Egy olyan lakásdekoráció van, mely kedvező áron, gyorsan, és nagyon nagymértékű változást hoz az otthonunkba: az pedig a falikép! Kombináld, variáld, cseréld le teljesen! És élvezd az új otthonod hangulatát!</description>
+    <link>9937</link>
+    <image_link>image/catalog/Product_pictures/DESY/desy-ob-02487[d]_2.jpg</image_link>
+    <price>6486.3026</price>
+    <brand>COFFEE</brand>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>9937</id>
+    <title>Falikép,  kávéval minden lehetséges, 30x40 cm,  fekete - COFFEE</title>
+    <description>A változatosság igénye sokunkban megvan – a lakberendezésben azonban a legtöbb dolognak a megváltoztatása vagy sok ideig tart, vagy sokba kerül. Egy olyan lakásdekoráció van, mely kedvező áron, gyorsan, és nagyon nagymértékű változást hoz az otthonunkba: az pedig a falikép! Kombináld, variáld, cseréld le teljesen! És élvezd az új otthonod hangulatát!</description>
+    <link>9937</link>
+    <image_link>image/catalog/Product_pictures/DESY/desy-ob-02487[d]_3.jpg</image_link>
+    <price>6486.3026</price>
+    <brand>COFFEE</brand>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>9937</id>
+    <title>Falikép,  kávéval minden lehetséges, 30x40 cm,  fekete - COFFEE</title>
+    <description>A változatosság igénye sokunkban megvan – a lakberendezésben azonban a legtöbb dolognak a megváltoztatása vagy sok ideig tart, vagy sokba kerül. Egy olyan lakásdekoráció van, mely kedvező áron, gyorsan, és nagyon nagymértékű változást hoz az otthonunkba: az pedig a falikép! Kombináld, variáld, cseréld le teljesen! És élvezd az új otthonod hangulatát!</description>
+    <link>9937</link>
+    <image_link>image/catalog/Product_pictures/DESY/desy-ob-02487[d]_4.jpg</image_link>
+    <price>6486.3026</price>
+    <brand>COFFEE</brand>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>9944</id>
+    <title>Falikép, abszrakt csíkokkal, 50x70 cm, világoskék - STRATUS</title>
+    <description>A változatosság igénye sokunkban megvan – a lakberendezésben azonban a legtöbb dolognak a megváltoztatása vagy sok ideig tart, vagy sokba kerül. Egy olyan lakásdekoráció van, mely kedvező áron, gyorsan, és nagyon nagymértékű változást hoz az otthonunkba: az pedig a falikép! Kombináld, variáld, cseréld le teljesen! És élvezd az új otthonod hangulatát!</description>
+    <link>9944</link>
+    <image_link>image/catalog/Product_pictures/DESY/desy-ob-13882[d]_2.jpg</image_link>
+    <price>29378.2267</price>
+    <brand>STRATUS</brand>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>9944</id>
+    <title>Falikép, abszrakt csíkokkal, 50x70 cm, világoskék - STRATUS</title>
+    <description>A változatosság igénye sokunkban megvan – a lakberendezésben azonban a legtöbb dolognak a megváltoztatása vagy sok ideig tart, vagy sokba kerül. Egy olyan lakásdekoráció van, mely kedvező áron, gyorsan, és nagyon nagymértékű változást hoz az otthonunkba: az pedig a falikép! Kombináld, variáld, cseréld le teljesen! És élvezd az új otthonod hangulatát!</description>
+    <link>9944</link>
+    <image_link>image/catalog/Product_pictures/DESY/desy-ob-13882[d]_3.jpg</image_link>
+    <price>29378.2267</price>
+    <brand>STRATUS</brand>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>9944</id>
+    <title>Falikép, abszrakt csíkokkal, 50x70 cm, világoskék - STRATUS</title>
+    <description>A változatosság igénye sokunkban megvan – a lakberendezésben azonban a legtöbb dolognak a megváltoztatása vagy sok ideig tart, vagy sokba kerül. Egy olyan lakásdekoráció van, mely kedvező áron, gyorsan, és nagyon nagymértékű változást hoz az otthonunkba: az pedig a falikép! Kombináld, variáld, cseréld le teljesen! És élvezd az új otthonod hangulatát!</description>
+    <link>9944</link>
+    <image_link>image/catalog/Product_pictures/DESY/desy-ob-13882[d]_4.jpg</image_link>
+    <price>29378.2267</price>
+    <brand>STRATUS</brand>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>9945</id>
+    <title>Falikép, abszrakt kövekkel, 50x70 cm, világoskék - STRATUS</title>
+    <description>A változatosság igénye sokunkban megvan – a lakberendezésben azonban a legtöbb dolognak a megváltoztatása vagy sok ideig tart, vagy sokba kerül. Egy olyan lakásdekoráció van, mely kedvező áron, gyorsan, és nagyon nagymértékű változást hoz az otthonunkba: az pedig a falikép! Kombináld, variáld, cseréld le teljesen! És élvezd az új otthonod hangulatát!</description>
+    <link>9945</link>
+    <image_link>image/catalog/Product_pictures/DESY/desy-ob-13883[d]_2.jpg</image_link>
+    <price>115015.4135</price>
+    <brand>STRATUS</brand>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>9945</id>
+    <title>Falikép, abszrakt kövekkel, 50x70 cm, világoskék - STRATUS</title>
+    <description>A változatosság igénye sokunkban megvan – a lakberendezésben azonban a legtöbb dolognak a megváltoztatása vagy sok ideig tart, vagy sokba kerül. Egy olyan lakásdekoráció van, mely kedvező áron, gyorsan, és nagyon nagymértékű változást hoz az otthonunkba: az pedig a falikép! Kombináld, variáld, cseréld le teljesen! És élvezd az új otthonod hangulatát!</description>
+    <link>9945</link>
+    <image_link>image/catalog/Product_pictures/DESY/desy-ob-13883[d]_3.jpg</image_link>
+    <price>115015.4135</price>
+    <brand>STRATUS</brand>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>9945</id>
+    <title>Falikép, abszrakt kövekkel, 50x70 cm, világoskék - STRATUS</title>
+    <description>A változatosság igénye sokunkban megvan – a lakberendezésben azonban a legtöbb dolognak a megváltoztatása vagy sok ideig tart, vagy sokba kerül. Egy olyan lakásdekoráció van, mely kedvező áron, gyorsan, és nagyon nagymértékű változást hoz az otthonunkba: az pedig a falikép! Kombináld, variáld, cseréld le teljesen! És élvezd az új otthonod hangulatát!</description>
+    <link>9945</link>
+    <image_link>image/catalog/Product_pictures/DESY/desy-ob-13883[d]_4.jpg</image_link>
+    <price>115015.4135</price>
+    <brand>STRATUS</brand>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>10753</id>
+    <title>Étkezőasztal, 200x90 cm, mangófa - QUIMPER</title>
+    <description>Azért érdemes az étkezőnkre, vagy az étkezésre kijelölt helyiségre nagyobb hangsúlyt fektetnünk, mert a legtöbbünknél ez az a hely, ahol a család napi szinten a leghosszabb időt tölti el együtt. Épp ezért érdemes az étkezőasztalt nagy odafigyeléssel kiválasztani.</description>
+    <link>10753</link>
+    <image_link>image/catalog/Product_pictures/DEJA/deja-166511[d]_2.jpg</image_link>
+    <price>82485.3389</price>
+    <brand>QUIMPER</brand>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>10753</id>
+    <title>Étkezőasztal, 200x90 cm, mangófa - QUIMPER</title>
+    <description>Azért érdemes az étkezőnkre, vagy az étkezésre kijelölt helyiségre nagyobb hangsúlyt fektetnünk, mert a legtöbbünknél ez az a hely, ahol a család napi szinten a leghosszabb időt tölti el együtt. Épp ezért érdemes az étkezőasztalt nagy odafigyeléssel kiválasztani.</description>
+    <link>10753</link>
+    <image_link>image/catalog/Product_pictures/DEJA/deja-166511[d]_3.jpg</image_link>
+    <price>82485.3389</price>
+    <brand>QUIMPER</brand>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>10753</id>
+    <title>Étkezőasztal, 200x90 cm, mangófa - QUIMPER</title>
+    <description>Azért érdemes az étkezőnkre, vagy az étkezésre kijelölt helyiségre nagyobb hangsúlyt fektetnünk, mert a legtöbbünknél ez az a hely, ahol a család napi szinten a leghosszabb időt tölti el együtt. Épp ezért érdemes az étkezőasztalt nagy odafigyeléssel kiválasztani.</description>
+    <link>10753</link>
+    <image_link>image/catalog/Product_pictures/DEJA/deja-166511[d]_4.jpg</image_link>
+    <price>82485.3389</price>
+    <brand>QUIMPER</brand>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>10753</id>
+    <title>Étkezőasztal, 200x90 cm, mangófa - QUIMPER</title>
+    <description>Azért érdemes az étkezőnkre, vagy az étkezésre kijelölt helyiségre nagyobb hangsúlyt fektetnünk, mert a legtöbbünknél ez az a hely, ahol a család napi szinten a leghosszabb időt tölti el együtt. Épp ezért érdemes az étkezőasztalt nagy odafigyeléssel kiválasztani.</description>
+    <link>10753</link>
+    <image_link>image/catalog/Product_pictures/DEJA/deja-166511[d]_5.jpg</image_link>
+    <price>82485.3389</price>
+    <brand>QUIMPER</brand>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>11272</id>
+    <title>Bársony hatású szövetfotel, fa karfával, szürke - BRIDGE</title>
+    <description>Egy szép és stílusos fotel szobánk gyöngyszeme lesz! Kialakíthatod kedvenc kuckózós sarkodat hálószobádban, egy hangulatos olvasós bázist a nappalidban, vagy épp a legkényelmesebb helyet a TV nézéshez!</description>
+    <link>11272</link>
+    <image_link>image/catalog/Product_pictures/DEJA/deja-166757a[d]_4.jpg</image_link>
+    <price>201606.4860</price>
+    <brand>BRIDGE</brand>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>11272</id>
+    <title>Bársony hatású szövetfotel, fa karfával, szürke - BRIDGE</title>
+    <description>Egy szép és stílusos fotel szobánk gyöngyszeme lesz! Kialakíthatod kedvenc kuckózós sarkodat hálószobádban, egy hangulatos olvasós bázist a nappalidban, vagy épp a legkényelmesebb helyet a TV nézéshez!</description>
+    <link>11272</link>
+    <image_link>image/catalog/Product_pictures/DEJA/deja-166757a[d]_5.jpg</image_link>
+    <price>201606.4860</price>
+    <brand>BRIDGE</brand>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>11272</id>
+    <title>Bársony hatású szövetfotel, fa karfával, szürke - BRIDGE</title>
+    <description>Egy szép és stílusos fotel szobánk gyöngyszeme lesz! Kialakíthatod kedvenc kuckózós sarkodat hálószobádban, egy hangulatos olvasós bázist a nappalidban, vagy épp a legkényelmesebb helyet a TV nézéshez!</description>
+    <link>11272</link>
+    <image_link>image/catalog/Product_pictures/DEJA/deja-166757a[d]_7.jpg</image_link>
+    <price>201606.4860</price>
+    <brand>BRIDGE</brand>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>11275</id>
+    <title>Bársony hatású szövetfotel, fa karfával, fekete - BRIDGE</title>
+    <description>Egy szép és stílusos fotel szobánk gyöngyszeme lesz! Kialakíthatod kedvenc kuckózós sarkodat hálószobádban, egy hangulatos olvasós bázist a nappalidban, vagy épp a legkényelmesebb helyet a TV nézéshez!</description>
+    <link>11275</link>
+    <image_link>image/catalog/Product_pictures/DEJA/deja-166757d[d]_2.jpg</image_link>
+    <price>243876.4038</price>
+    <brand>BRIDGE</brand>
+  </DATA_RECORD>
+</Products>
