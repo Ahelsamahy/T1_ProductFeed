@@ -5,7 +5,6 @@ myroot = mytree.getroot()
 dataRecord = myroot.findall("DATA_RECORD")
 recordLen = len(dataRecord)
 counterPos = 0
-counterNeg = 0
 
 uniqueId = []
 
@@ -51,42 +50,51 @@ for target in myroot.findall('DATA_RECORD'):
     f_list = [t.text for t in target.findall('./image_link')]
     if " " in f_list:
         myroot.remove(target)
-    recordLen = len(myroot.findall('DATA_RECORD'))
 
 
-# for allElem in myroot.findall('DATA_RECORD'):
-#     underIt = allElem.find('id')
-#     counterPos+=1
-#     new_tag = ET.Element('uniqueID')
-#     new_tag.text =str(counterPos)
-#     new_tag.tail = underIt.tail
+# make sure there are unique IDs only [from Google Merchant product data specifications]
+duplicatedIDs = []
+for IDS in myroot.iter('id'):
+    if IDS.text in uniqueId:
+        duplicatedIDs.append(IDS.text)
+    else:
+        uniqueId.append(IDS.text)
+        counterPos += 1
+for IDS in duplicatedIDs:
+    print("the ID", IDS, "is duplicated")
 
-#     index = list(allElem).index(underIt)
-#     allElem.insert(index+1, new_tag)
-
-
-# for IDS in myroot.iter('id'):
-#     if IDS.text in uniqueId:
-#       # print("max is 50 character, please reduce the id and try again")
-
-#       counterNeg+=1
-#     else:
-#       uniqueId.append(IDS.text)
-#       IDS.text = str("https://butopea.com/p/"+(IDS.text))
-#       counterPos += 1
-# print("there are ",counterNeg, "who have same id with other products")
-# print("checked IDS for",counterPos, "product")
-# counter = 0
+print("checked IDS for", counterPos, "product")
 
 
-# for links in myroot.iter('link'):
-#     if (links.text>50):
-#       print("max is 50 character, please reduce the id and try again")
-#     else:
-#       links.text = str("https://butopea.com/p/"+(links.text))
-#       counter += 1
-# print("changed link for",counter, "product")
-# counter = 0
+def checkFormat():
+    print("checking format ... \n")
 
-mytree.write('output.xml')
+    for index in range(0, len(uniqueId)):
+        if (len(myroot[index][0].text) > 50):
+            print("Max is 50 character, please reduce this id [" +
+                  myroot[index][0].text+"] and try again")
+
+        if (len(myroot[index][1].text) > 150):
+            print("Max is 150 character, please reduce this title \n[" +
+                  myroot[index][1].text+"] and try again")
+
+        if (len(myroot[index][2].text) > 5000):
+            print("Max is 5000 character, please reduce this description \n[" +
+                  myroot[index][2].text+"] and try again")
+        elif ("free shipping" in myroot[index][2].text):
+            print("Can't use 'free shipping' in description, will remove it")
+            myroot[index][2].text.replace("free shipping", " ")
+
+        additionalImageList = myroot[index][5].text.split("\n")
+        for elm in additionalImageList:
+            if (len(elm) > 2000):
+                print("Max is 2000 character, please reduce the additional image link of \n[" +
+                      elm+"]and try again \n")
+                
+        if (len(myroot[index][8].text) > 70):
+            print("Max is 70 character, please reduce the length of brand \n[" +
+                  myroot[index][8].text+"] and try again")
+
+
+checkFormat()
 mytree.write('feed.xml')
