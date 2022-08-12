@@ -9,14 +9,21 @@ counterNeg = 0
 
 uniqueId = []
 
-# add empty additional_image_link element
-for allElem in myroot.findall('DATA_RECORD'):
-    underIt = allElem.find('image_link')
-    new_tag = ET.Element('additional_image_link')
-    new_tag.text = " "
-    new_tag.tail = underIt.tail
-    index = list(allElem).index(underIt)
-    allElem.insert(index+1, new_tag)
+
+def addElement(whatToAdd, underWhat, value):
+    for allElem in myroot.findall('DATA_RECORD'):
+        underIt = allElem.find(underWhat)
+        new_tag = ET.Element(whatToAdd)
+        new_tag.text = value
+        new_tag.tail = underIt.tail
+        index = list(allElem).index(underIt)
+        allElem.insert(index+1, new_tag)
+
+
+addElement("additional_image_link", "image_link", " ")
+addElement("availability", "additional_image_link", "in_stock")
+addElement("condition", "brand", "new")
+
 
 for index in range(0, recordLen):
     myroot[index][4].text = str(
