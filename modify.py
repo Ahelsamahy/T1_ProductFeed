@@ -37,19 +37,20 @@ for index in range(0, recordLen):
         myroot[index][7].text + " HUF")
 
 
-# move the image link to the additional_image_link element if id are the same with the ones after it.
+# move the <image_link> text to the <additional_image_link> if id are the same with the ones after it.
 for index in range(0, recordLen):
     counter = 1
     if counter+index < recordLen:
         while (myroot[index][1].text == myroot[index+counter][1].text):
             myroot[index][5].text = myroot[index][5].text + \
-                " \n " + myroot[index+counter][4].text
+                "\n" + myroot[index+counter][4].text
             myroot[index+counter][4].text = " "
             counter += 1
-    for target in myroot:
-        f_list= [t.text for t in target.findall('.//image_link')]
-        if " " in f_list:
-            myroot.remove(target)
+# delete parent element if subelement <image_link> is empty
+for target in myroot.findall('DATA_RECORD'):
+    f_list = [t.text for t in target.findall('./image_link')]
+    if " " in f_list:
+        myroot.remove(target)
     recordLen = len(myroot.findall('DATA_RECORD'))
 
 
